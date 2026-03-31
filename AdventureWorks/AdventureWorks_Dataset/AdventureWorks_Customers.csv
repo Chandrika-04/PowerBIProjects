@@ -1,0 +1,1001 @@
+CustomerKey,FirstName,LastName,BirthDate,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+1,Isabella,Davis,1957-03-30,F,isabella.davis1@email.com,50000,1,Graduate Degree,Professional,Y
+2,Lucas,Baker,1957-11-07,M,lucas.baker2@email.com,30000,1,Graduate Degree,Manual,Y
+3,Ethan,Thomas,1992-08-20,M,ethan.thomas3@email.com,90000,4,High School,Professional,Y
+4,Amelia,Baker,1985-07-11,F,amelia.baker4@email.com,40000,1,High School,Professional,Y
+5,Matthew,Miller,1987-03-17,F,matthew.miller5@email.com,120000,2,Bachelors,Clerical,Y
+6,Matthew,Garcia,1981-04-20,F,matthew.garcia6@email.com,120000,1,Bachelors,Professional,Y
+7,Oliver,Young,1962-02-27,M,oliver.young7@email.com,30000,3,High School,Clerical,N
+8,David,King,1986-11-15,M,david.king8@email.com,150000,2,Bachelors,Manual,Y
+9,Ava,Morgan,1976-12-17,M,ava.morgan9@email.com,90000,3,High School,Manual,Y
+10,Aiden,Walker,1960-01-07,M,aiden.walker10@email.com,25000,2,Partial College,Management,Y
+11,Jessica,Campbell,1983-03-26,M,jessica.campbell11@email.com,150000,3,Partial College,Clerical,Y
+12,Thomas,Wilson,1977-02-15,F,thomas.wilson12@email.com,120000,3,Partial High School,Clerical,N
+13,Joseph,Wilson,1999-04-11,M,joseph.wilson13@email.com,25000,0,Graduate Degree,Skilled Manual,N
+14,Sophia,Jones,1989-07-09,F,sophia.jones14@email.com,120000,3,Partial High School,Management,Y
+15,Aiden,Morgan,1965-04-11,F,aiden.morgan15@email.com,150000,2,Bachelors,Management,N
+16,David,Nelson,1955-04-17,F,david.nelson16@email.com,100000,1,Partial High School,Professional,N
+17,Isabella,Perez,1972-11-04,M,isabella.perez17@email.com,70000,1,Partial High School,Manual,Y
+18,Sophia,Walker,1998-11-01,M,sophia.walker18@email.com,30000,2,High School,Skilled Manual,Y
+19,Sarah,Campbell,1962-01-24,M,sarah.campbell19@email.com,90000,0,Partial High School,Skilled Manual,Y
+20,Charlotte,Carter,1969-10-24,F,charlotte.carter20@email.com,100000,4,Partial College,Skilled Manual,Y
+21,Jackson,Lee,1990-10-18,F,jackson.lee21@email.com,90000,4,Partial College,Professional,Y
+22,Joseph,Jones,1985-05-01,M,joseph.jones22@email.com,120000,4,Graduate Degree,Manual,Y
+23,James,Jones,1960-04-13,M,james.jones23@email.com,30000,0,High School,Professional,Y
+24,Karen,Morris,1998-07-20,M,karen.morris24@email.com,100000,1,Partial High School,Manual,N
+25,Sarah,Carter,1991-07-09,M,sarah.carter25@email.com,30000,0,Partial College,Management,N
+26,Anthony,Nelson,1959-11-11,M,anthony.nelson26@email.com,25000,3,High School,Professional,Y
+27,Richard,Thomas,1995-04-01,M,richard.thomas27@email.com,80000,1,High School,Clerical,Y
+28,Robert,Adams,1963-10-14,M,robert.adams28@email.com,150000,4,Bachelors,Professional,Y
+29,David,Green,1998-07-27,F,david.green29@email.com,50000,3,Bachelors,Skilled Manual,N
+30,James,Wright,1978-10-17,F,james.wright30@email.com,60000,3,Partial High School,Clerical,Y
+31,Richard,Young,1974-07-13,M,richard.young31@email.com,120000,5,Partial High School,Professional,N
+32,Patricia,Brown,1997-10-10,M,patricia.brown32@email.com,25000,4,Bachelors,Skilled Manual,Y
+33,Sophia,Jones,1976-02-07,F,sophia.jones33@email.com,30000,4,Graduate Degree,Manual,Y
+34,Mason,Garcia,1992-08-11,F,mason.garcia34@email.com,60000,1,High School,Skilled Manual,N
+35,Sandra,Wilson,1981-11-30,F,sandra.wilson35@email.com,70000,0,Bachelors,Clerical,Y
+36,Robert,Turner,1974-02-14,F,robert.turner36@email.com,40000,2,Bachelors,Skilled Manual,N
+37,Charles,Taylor,1994-04-24,F,charles.taylor37@email.com,120000,5,Partial High School,Professional,N
+38,Charlotte,Miller,1967-01-18,F,charlotte.miller38@email.com,30000,0,Partial High School,Skilled Manual,N
+39,Charles,Evans,1973-11-23,F,charles.evans39@email.com,50000,5,High School,Manual,N
+40,Thomas,Brown,1963-04-13,F,thomas.brown40@email.com,60000,0,Bachelors,Management,Y
+41,Isabella,Martin,1969-06-30,F,isabella.martin41@email.com,100000,5,Partial College,Manual,Y
+42,Linda,Jones,1968-05-16,M,linda.jones42@email.com,70000,4,Partial High School,Skilled Manual,N
+43,William,Williams,1982-08-28,F,william.williams43@email.com,25000,2,Graduate Degree,Skilled Manual,Y
+44,Daniel,Bailey,1991-06-17,M,daniel.bailey44@email.com,50000,1,Graduate Degree,Clerical,Y
+45,Susan,Bell,1984-10-20,F,susan.bell45@email.com,150000,5,Graduate Degree,Management,Y
+46,Abigail,Reed,1964-09-12,F,abigail.reed46@email.com,25000,3,Graduate Degree,Skilled Manual,N
+47,Daniel,Lee,1975-06-02,M,daniel.lee47@email.com,25000,5,Graduate Degree,Clerical,N
+48,Karen,Jones,1980-01-16,F,karen.jones48@email.com,150000,4,Partial College,Manual,N
+49,Maria,Davis,1978-06-08,M,maria.davis49@email.com,120000,2,Bachelors,Professional,N
+50,Daniel,Morgan,1983-02-21,F,daniel.morgan50@email.com,120000,4,Bachelors,Clerical,Y
+51,Thomas,Williams,1994-02-13,M,thomas.williams51@email.com,100000,4,Graduate Degree,Management,N
+52,Robert,Morris,1984-08-15,F,robert.morris52@email.com,150000,0,High School,Manual,N
+53,Charlotte,Green,1984-04-06,F,charlotte.green53@email.com,60000,4,Graduate Degree,Skilled Manual,N
+54,Charlotte,Wright,1970-08-12,F,charlotte.wright54@email.com,80000,4,Bachelors,Management,N
+55,Jessica,Baker,1983-11-29,F,jessica.baker55@email.com,90000,3,Graduate Degree,Manual,N
+56,Abigail,Bell,1970-03-23,M,abigail.bell56@email.com,60000,4,Partial High School,Management,Y
+57,Evelyn,Harris,1982-11-06,M,evelyn.harris57@email.com,50000,1,Bachelors,Professional,Y
+58,Emma,Edwards,1961-07-14,F,emma.edwards58@email.com,80000,5,Partial High School,Skilled Manual,N
+59,Liam,Scott,1976-11-20,M,liam.scott59@email.com,150000,5,Bachelors,Professional,N
+60,Joseph,Anderson,1996-09-04,M,joseph.anderson60@email.com,100000,1,Bachelors,Clerical,Y
+61,Ashley,Morris,1983-06-20,F,ashley.morris61@email.com,120000,5,Partial High School,Clerical,N
+62,David,Bell,1997-08-02,F,david.bell62@email.com,60000,1,High School,Manual,N
+63,Isabella,Harris,1979-08-21,F,isabella.harris63@email.com,30000,5,High School,Skilled Manual,N
+64,Nancy,Walker,1962-03-25,M,nancy.walker64@email.com,40000,1,Partial College,Skilled Manual,Y
+65,Robert,Green,1991-07-27,F,robert.green65@email.com,100000,3,Partial College,Professional,Y
+66,Anthony,Wright,1956-10-02,F,anthony.wright66@email.com,90000,0,High School,Management,N
+67,Anthony,Turner,1974-10-14,F,anthony.turner67@email.com,50000,2,Partial College,Clerical,Y
+68,Matthew,Hall,1991-04-10,M,matthew.hall68@email.com,90000,1,Partial High School,Manual,Y
+69,Sandra,Parker,1957-06-07,M,sandra.parker69@email.com,150000,3,Graduate Degree,Clerical,Y
+70,Patricia,Martin,1989-01-04,F,patricia.martin70@email.com,50000,3,High School,Management,N
+71,Karen,Murphy,1992-10-26,F,karen.murphy71@email.com,30000,3,Bachelors,Manual,Y
+72,Daniel,White,1961-02-26,M,daniel.white72@email.com,25000,1,Graduate Degree,Professional,Y
+73,Sarah,Wilson,1997-06-26,M,sarah.wilson73@email.com,120000,1,Partial College,Management,N
+74,David,Evans,1965-04-11,M,david.evans74@email.com,60000,0,Partial High School,Professional,N
+75,Mia,Rogers,1988-09-02,F,mia.rogers75@email.com,50000,0,Partial High School,Skilled Manual,Y
+76,Amelia,Bailey,1982-01-21,M,amelia.bailey76@email.com,120000,0,High School,Manual,N
+77,Charlotte,King,1961-03-09,F,charlotte.king77@email.com,25000,3,Partial College,Professional,N
+78,Betty,Collins,1996-03-30,M,betty.collins78@email.com,80000,1,Partial High School,Management,N
+79,Ashley,Baker,1979-01-29,F,ashley.baker79@email.com,50000,0,High School,Clerical,Y
+80,Evelyn,Nelson,1988-12-31,F,evelyn.nelson80@email.com,25000,3,High School,Skilled Manual,N
+81,Jessica,Allen,1978-03-06,F,jessica.allen81@email.com,60000,4,High School,Manual,Y
+82,Noah,Thomas,1962-09-06,M,noah.thomas82@email.com,80000,3,Partial High School,Skilled Manual,N
+83,Logan,Cook,1999-01-13,F,logan.cook83@email.com,25000,0,High School,Skilled Manual,N
+84,Amelia,Harris,1982-06-21,F,amelia.harris84@email.com,90000,4,Partial High School,Management,N
+85,Elijah,Phillips,1984-09-04,F,elijah.phillips85@email.com,90000,2,High School,Management,Y
+86,Linda,Morgan,1972-04-11,F,linda.morgan86@email.com,30000,5,Partial High School,Skilled Manual,Y
+87,Jessica,Bell,1998-06-10,F,jessica.bell87@email.com,120000,4,Partial High School,Management,Y
+88,Richard,Young,1975-05-30,F,richard.young88@email.com,40000,2,Bachelors,Manual,Y
+89,Karen,Williams,1959-11-22,F,karen.williams89@email.com,40000,5,Partial College,Professional,Y
+90,Mia,Young,1997-02-10,F,mia.young90@email.com,90000,2,Graduate Degree,Professional,N
+91,Emma,Davis,1960-11-11,F,emma.davis91@email.com,90000,0,Partial High School,Professional,Y
+92,Barbara,Campbell,1982-04-05,M,barbara.campbell92@email.com,50000,0,Partial High School,Clerical,Y
+93,Oliver,Roberts,1989-02-15,F,oliver.roberts93@email.com,90000,2,Partial High School,Clerical,N
+94,Mia,Edwards,1960-05-27,M,mia.edwards94@email.com,50000,5,Graduate Degree,Management,Y
+95,David,Harris,1970-08-05,M,david.harris95@email.com,40000,0,Partial College,Clerical,N
+96,Charles,Williams,1975-10-08,F,charles.williams96@email.com,60000,5,Partial College,Professional,Y
+97,Thomas,Collins,1972-09-30,F,thomas.collins97@email.com,30000,4,Graduate Degree,Skilled Manual,N
+98,Barbara,Jones,1960-05-08,M,barbara.jones98@email.com,60000,4,Partial High School,Management,N
+99,Linda,Nelson,1982-04-13,F,linda.nelson99@email.com,60000,4,Partial High School,Clerical,N
+100,Jennifer,Evans,1958-07-30,F,jennifer.evans100@email.com,70000,4,High School,Professional,Y
+101,Joseph,Rogers,1956-11-10,F,joseph.rogers101@email.com,120000,0,Graduate Degree,Clerical,N
+102,Karen,Anderson,1994-02-08,F,karen.anderson102@email.com,30000,3,High School,Clerical,N
+103,Christopher,Morris,1964-05-20,M,christopher.morris103@email.com,70000,3,Partial College,Management,N
+104,Evelyn,Phillips,1958-04-17,F,evelyn.phillips104@email.com,30000,2,High School,Management,Y
+105,Oliver,Scott,1955-02-07,F,oliver.scott105@email.com,80000,0,Graduate Degree,Manual,N
+106,Mason,Murphy,1999-09-21,F,mason.murphy106@email.com,25000,1,High School,Manual,Y
+107,Charles,Adams,1998-06-27,M,charles.adams107@email.com,25000,5,Partial High School,Skilled Manual,Y
+108,Lisa,Phillips,1956-03-24,F,lisa.phillips108@email.com,30000,1,Bachelors,Clerical,Y
+109,Logan,Moore,1999-09-17,F,logan.moore109@email.com,100000,5,High School,Clerical,N
+110,Emma,Harris,1995-12-24,M,emma.harris110@email.com,80000,1,Partial High School,Manual,Y
+111,Robert,Thompson,1992-03-23,F,robert.thompson111@email.com,100000,2,Bachelors,Management,N
+112,Lucas,Parker,1998-12-05,M,lucas.parker112@email.com,90000,4,Partial College,Management,N
+113,Ethan,Murphy,1988-11-03,F,ethan.murphy113@email.com,70000,1,Graduate Degree,Manual,N
+114,Joseph,Bailey,1991-11-08,M,joseph.bailey114@email.com,70000,5,Partial College,Clerical,N
+115,Charlotte,Stewart,1968-08-24,F,charlotte.stewart115@email.com,25000,1,Partial High School,Manual,N
+116,Michael,Adams,1963-12-12,F,michael.adams116@email.com,25000,5,Graduate Degree,Clerical,Y
+117,Robert,Carter,1978-10-11,F,robert.carter117@email.com,120000,5,Partial College,Professional,N
+118,Aiden,Turner,1989-02-03,F,aiden.turner118@email.com,150000,5,Partial College,Manual,Y
+119,Mason,Jones,1976-01-23,F,mason.jones119@email.com,50000,5,Bachelors,Clerical,Y
+120,Evelyn,Collins,1964-01-07,F,evelyn.collins120@email.com,40000,5,High School,Professional,Y
+121,Christopher,Brown,1981-04-27,F,christopher.brown121@email.com,70000,3,Graduate Degree,Skilled Manual,N
+122,Mia,Rogers,1971-02-26,M,mia.rogers122@email.com,40000,0,Partial High School,Clerical,Y
+123,Liam,Parker,1967-11-03,M,liam.parker123@email.com,90000,5,High School,Clerical,N
+124,Charlotte,Smith,1996-09-27,F,charlotte.smith124@email.com,150000,4,Graduate Degree,Professional,N
+125,Daniel,Parker,1981-11-02,F,daniel.parker125@email.com,60000,3,High School,Skilled Manual,N
+126,Emma,Miller,1976-04-12,F,emma.miller126@email.com,120000,2,Partial High School,Management,N
+127,Maria,Morris,1990-07-05,F,maria.morris127@email.com,25000,4,Bachelors,Manual,N
+128,Charles,Bailey,1975-08-24,F,charles.bailey128@email.com,50000,5,Graduate Degree,Manual,N
+129,Aiden,Murphy,1967-04-09,M,aiden.murphy129@email.com,150000,5,Bachelors,Management,N
+130,John,Parker,1987-09-25,M,john.parker130@email.com,30000,2,High School,Clerical,Y
+131,Richard,Wilson,1987-10-28,F,richard.wilson131@email.com,40000,2,Partial College,Management,N
+132,Linda,Nelson,1961-10-03,M,linda.nelson132@email.com,50000,5,Partial College,Manual,N
+133,Jennifer,Scott,1956-04-01,F,jennifer.scott133@email.com,100000,0,Partial College,Management,N
+134,Lucas,Wright,1988-04-29,M,lucas.wright134@email.com,150000,1,Partial College,Professional,N
+135,Mason,White,1960-09-02,F,mason.white135@email.com,60000,5,Partial College,Professional,Y
+136,John,Williams,1982-04-22,F,john.williams136@email.com,30000,0,Graduate Degree,Manual,Y
+137,Matthew,Nelson,1988-04-14,F,matthew.nelson137@email.com,120000,5,Graduate Degree,Clerical,Y
+138,Liam,Edwards,1991-08-13,F,liam.edwards138@email.com,25000,5,High School,Skilled Manual,N
+139,Mark,Harris,1987-07-16,M,mark.harris139@email.com,150000,2,Partial High School,Management,Y
+140,Sandra,Thompson,1972-01-11,M,sandra.thompson140@email.com,90000,0,Graduate Degree,Manual,Y
+141,Patricia,Hall,1976-11-07,M,patricia.hall141@email.com,120000,1,Bachelors,Manual,Y
+142,Lucas,Jackson,1975-11-26,F,lucas.jackson142@email.com,40000,4,Bachelors,Management,Y
+143,William,Turner,1977-06-27,M,william.turner143@email.com,30000,5,Bachelors,Skilled Manual,Y
+144,Daniel,Harris,1984-01-18,M,daniel.harris144@email.com,40000,2,Bachelors,Skilled Manual,N
+145,Noah,Davis,1960-09-13,F,noah.davis145@email.com,90000,2,Partial High School,Manual,Y
+146,Mark,Perez,1974-11-16,M,mark.perez146@email.com,150000,4,High School,Clerical,Y
+147,Patricia,Carter,1991-01-12,F,patricia.carter147@email.com,150000,0,Partial College,Clerical,Y
+148,Jennifer,Walker,1968-04-22,M,jennifer.walker148@email.com,40000,2,Partial High School,Manual,N
+149,Matthew,Evans,1981-06-16,F,matthew.evans149@email.com,100000,4,Partial College,Professional,Y
+150,Logan,Stewart,1974-04-16,F,logan.stewart150@email.com,90000,1,Partial College,Management,N
+151,Sandra,Green,1963-07-13,F,sandra.green151@email.com,80000,2,High School,Management,Y
+152,Aiden,Carter,1961-01-08,M,aiden.carter152@email.com,30000,0,Partial College,Professional,N
+153,William,Phillips,1960-05-19,F,william.phillips153@email.com,150000,0,Partial College,Management,N
+154,Harper,Brown,1980-10-21,F,harper.brown154@email.com,70000,0,Partial High School,Manual,Y
+155,Barbara,Morris,1998-04-05,M,barbara.morris155@email.com,30000,2,Partial High School,Management,Y
+156,Evelyn,Thompson,1975-04-16,F,evelyn.thompson156@email.com,100000,4,Partial High School,Manual,Y
+157,Sophia,Morris,1978-12-29,M,sophia.morris157@email.com,40000,2,High School,Management,N
+158,James,Anderson,1967-11-08,F,james.anderson158@email.com,30000,1,Bachelors,Professional,Y
+159,Matthew,Green,1995-09-13,F,matthew.green159@email.com,40000,2,High School,Management,Y
+160,Patricia,Moore,1969-02-14,M,patricia.moore160@email.com,150000,0,High School,Clerical,N
+161,Liam,Evans,1994-08-28,F,liam.evans161@email.com,60000,1,Partial High School,Professional,N
+162,Dorothy,Davis,1980-05-30,F,dorothy.davis162@email.com,100000,5,High School,Professional,Y
+163,Sandra,Evans,1959-12-01,M,sandra.evans163@email.com,50000,2,Graduate Degree,Skilled Manual,N
+164,Charles,Walker,1965-10-06,M,charles.walker164@email.com,90000,5,Partial College,Skilled Manual,Y
+165,Matthew,Turner,1975-08-24,F,matthew.turner165@email.com,30000,3,Bachelors,Clerical,Y
+166,Ashley,Jones,1983-02-01,F,ashley.jones166@email.com,120000,3,Partial College,Management,Y
+167,Sandra,Johnson,1984-02-20,M,sandra.johnson167@email.com,120000,3,High School,Professional,N
+168,Michael,Harris,1994-02-01,F,michael.harris168@email.com,100000,0,Partial College,Management,N
+169,Joseph,Hall,1970-01-31,M,joseph.hall169@email.com,100000,5,Bachelors,Manual,Y
+170,Oliver,Allen,1986-07-01,M,oliver.allen170@email.com,50000,0,Graduate Degree,Management,Y
+171,Susan,Evans,1968-09-18,M,susan.evans171@email.com,40000,5,Partial College,Clerical,N
+172,Aiden,Campbell,1983-12-30,F,aiden.campbell172@email.com,40000,3,Bachelors,Clerical,N
+173,Isabella,Lee,1979-08-23,M,isabella.lee173@email.com,70000,4,Bachelors,Management,N
+174,Mark,Williams,1960-02-08,F,mark.williams174@email.com,60000,0,Bachelors,Manual,N
+175,Ashley,Parker,1958-09-06,F,ashley.parker175@email.com,120000,5,Graduate Degree,Management,N
+176,Olivia,Moore,1960-07-20,F,olivia.moore176@email.com,30000,2,Bachelors,Manual,Y
+177,John,Harris,1994-04-10,F,john.harris177@email.com,100000,4,Partial High School,Skilled Manual,N
+178,Betty,Young,1989-10-03,F,betty.young178@email.com,70000,5,Partial High School,Professional,N
+179,Robert,Hall,1963-06-24,F,robert.hall179@email.com,60000,2,Partial High School,Skilled Manual,N
+180,Jennifer,Parker,1967-09-09,F,jennifer.parker180@email.com,60000,5,Partial College,Skilled Manual,Y
+181,Lisa,Phillips,1988-10-17,F,lisa.phillips181@email.com,40000,5,Partial High School,Professional,N
+182,Olivia,King,1956-08-20,F,olivia.king182@email.com,60000,1,Graduate Degree,Management,N
+183,Richard,White,1967-05-05,M,richard.white183@email.com,30000,2,Bachelors,Manual,Y
+184,Charlotte,Hall,1966-10-04,F,charlotte.hall184@email.com,40000,1,Graduate Degree,Manual,Y
+185,Harper,Adams,1958-12-02,F,harper.adams185@email.com,70000,5,Graduate Degree,Clerical,N
+186,Evelyn,Bell,1995-04-11,M,evelyn.bell186@email.com,100000,1,High School,Clerical,Y
+187,Betty,Rogers,1994-07-12,F,betty.rogers187@email.com,60000,3,Partial High School,Manual,N
+188,David,Thomas,1967-06-02,F,david.thomas188@email.com,25000,5,Partial College,Management,Y
+189,Jackson,Roberts,1966-03-09,F,jackson.roberts189@email.com,30000,1,High School,Clerical,Y
+190,Dorothy,Garcia,1974-12-02,F,dorothy.garcia190@email.com,70000,0,Partial College,Professional,N
+191,Olivia,King,1976-02-25,F,olivia.king191@email.com,30000,2,Graduate Degree,Professional,N
+192,Michael,Cook,1985-01-29,M,michael.cook192@email.com,40000,0,High School,Clerical,Y
+193,Evelyn,Cook,1997-01-31,F,evelyn.cook193@email.com,120000,0,Bachelors,Professional,N
+194,Jessica,Moore,1992-12-21,M,jessica.moore194@email.com,60000,1,High School,Professional,Y
+195,Sarah,Green,1996-01-04,M,sarah.green195@email.com,30000,3,Partial High School,Manual,Y
+196,Isabella,Perez,1976-09-14,M,isabella.perez196@email.com,60000,3,Bachelors,Manual,N
+197,Sarah,Campbell,1992-05-16,M,sarah.campbell197@email.com,150000,5,Bachelors,Manual,N
+198,Robert,Roberts,1956-10-28,F,robert.roberts198@email.com,90000,0,Partial College,Management,N
+199,Elijah,Johnson,1987-01-14,M,elijah.johnson199@email.com,70000,1,Bachelors,Manual,N
+200,William,Williams,1986-08-10,F,william.williams200@email.com,150000,1,Partial College,Clerical,Y
+201,William,Jones,1996-01-23,M,william.jones201@email.com,60000,1,Bachelors,Skilled Manual,Y
+202,Christopher,Lee,1990-09-23,F,christopher.lee202@email.com,60000,0,Graduate Degree,Management,N
+203,Oliver,Brown,1984-10-11,F,oliver.brown203@email.com,30000,2,Partial College,Clerical,N
+204,Matthew,Hall,1971-10-05,F,matthew.hall204@email.com,90000,2,Partial High School,Management,Y
+205,Harper,Baker,1962-01-30,F,harper.baker205@email.com,120000,1,Partial High School,Management,N
+206,Michael,Garcia,1984-06-02,F,michael.garcia206@email.com,60000,3,Partial High School,Clerical,Y
+207,Amelia,Adams,1986-07-16,F,amelia.adams207@email.com,25000,5,High School,Manual,N
+208,Karen,Collins,1960-02-23,M,karen.collins208@email.com,150000,5,Partial College,Management,Y
+209,Maria,Moore,1994-04-24,M,maria.moore209@email.com,40000,0,Graduate Degree,Management,N
+210,Matthew,Campbell,1957-11-27,M,matthew.campbell210@email.com,150000,3,High School,Management,N
+211,Evelyn,Jones,1967-05-09,F,evelyn.jones211@email.com,80000,2,High School,Skilled Manual,Y
+212,Maria,Bell,1971-09-10,F,maria.bell212@email.com,100000,3,Partial High School,Professional,N
+213,Oliver,Martin,1995-01-14,M,oliver.martin213@email.com,120000,2,Partial College,Skilled Manual,Y
+214,William,Jones,1995-07-22,M,william.jones214@email.com,90000,0,High School,Management,Y
+215,Ethan,Turner,1981-01-18,F,ethan.turner215@email.com,40000,5,Graduate Degree,Management,Y
+216,Linda,Thomas,1967-06-17,M,linda.thomas216@email.com,90000,0,High School,Manual,N
+217,Ashley,Phillips,1966-08-23,M,ashley.phillips217@email.com,30000,2,Partial College,Clerical,N
+218,Oliver,Green,1961-08-13,M,oliver.green218@email.com,70000,5,Bachelors,Clerical,N
+219,Aiden,Roberts,1985-11-28,M,aiden.roberts219@email.com,100000,5,Partial High School,Skilled Manual,Y
+220,Dorothy,Perez,1959-12-21,M,dorothy.perez220@email.com,100000,1,High School,Skilled Manual,Y
+221,Christopher,Cook,1975-03-25,F,christopher.cook221@email.com,100000,2,Bachelors,Management,Y
+222,Isabella,Phillips,1979-08-16,M,isabella.phillips222@email.com,150000,2,Partial High School,Manual,Y
+223,Olivia,Stewart,1970-02-16,M,olivia.stewart223@email.com,40000,5,Partial High School,Manual,N
+224,Mia,Williams,1957-07-18,M,mia.williams224@email.com,25000,5,Partial High School,Management,Y
+225,Oliver,Campbell,1992-05-16,M,oliver.campbell225@email.com,90000,5,Partial High School,Management,N
+226,Emma,Harris,1991-06-07,F,emma.harris226@email.com,90000,0,Bachelors,Skilled Manual,N
+227,Anthony,Carter,1996-08-31,M,anthony.carter227@email.com,70000,4,Graduate Degree,Management,N
+228,Harper,Allen,1990-10-09,M,harper.allen228@email.com,70000,4,Partial High School,Professional,N
+229,Sarah,Nelson,1965-12-28,F,sarah.nelson229@email.com,90000,1,Graduate Degree,Professional,Y
+230,Charles,Wright,1992-07-06,M,charles.wright230@email.com,40000,2,Partial High School,Management,Y
+231,Evelyn,Taylor,1999-09-14,F,evelyn.taylor231@email.com,90000,2,Partial College,Professional,Y
+232,Sandra,Perez,1996-01-08,M,sandra.perez232@email.com,50000,4,High School,Professional,Y
+233,Charles,Mitchell,1997-03-21,F,charles.mitchell233@email.com,100000,0,Bachelors,Clerical,Y
+234,Thomas,Morgan,1987-10-25,F,thomas.morgan234@email.com,70000,0,Partial College,Professional,Y
+235,Betty,Phillips,1980-11-21,M,betty.phillips235@email.com,80000,4,Partial College,Manual,N
+236,Mason,Rogers,1965-08-29,M,mason.rogers236@email.com,30000,3,High School,Management,N
+237,Evelyn,Moore,1972-11-09,F,evelyn.moore237@email.com,100000,0,Bachelors,Professional,Y
+238,Jackson,Hall,1997-07-02,F,jackson.hall238@email.com,40000,4,Partial High School,Skilled Manual,N
+239,Mason,Walker,1969-07-30,F,mason.walker239@email.com,120000,5,High School,Manual,N
+240,Olivia,Perez,1998-12-12,F,olivia.perez240@email.com,90000,0,High School,Management,Y
+241,Anthony,Parker,1982-08-08,M,anthony.parker241@email.com,120000,3,High School,Manual,Y
+242,Harper,Brown,1998-02-07,M,harper.brown242@email.com,100000,5,Partial High School,Clerical,Y
+243,Aiden,Harris,1957-10-31,M,aiden.harris243@email.com,50000,0,Partial College,Management,N
+244,Barbara,Green,1973-04-17,F,barbara.green244@email.com,100000,4,Partial College,Professional,Y
+245,Noah,Jackson,1984-02-29,F,noah.jackson245@email.com,100000,3,High School,Skilled Manual,N
+246,Ava,Hall,1986-10-14,F,ava.hall246@email.com,120000,3,Graduate Degree,Skilled Manual,N
+247,Ethan,Lee,1975-03-05,F,ethan.lee247@email.com,60000,5,Graduate Degree,Clerical,N
+248,Emma,Allen,1979-07-14,F,emma.allen248@email.com,30000,4,Partial High School,Clerical,N
+249,Daniel,Bailey,1968-02-21,F,daniel.bailey249@email.com,25000,2,Bachelors,Management,N
+250,Logan,Martin,1997-12-24,M,logan.martin250@email.com,50000,4,High School,Manual,N
+251,William,Miller,1976-06-19,M,william.miller251@email.com,25000,5,Partial High School,Skilled Manual,Y
+252,Patricia,Miller,1992-01-30,F,patricia.miller252@email.com,90000,0,Graduate Degree,Professional,Y
+253,Anthony,Stewart,1997-09-04,F,anthony.stewart253@email.com,150000,1,High School,Management,N
+254,Logan,Brown,1963-01-10,M,logan.brown254@email.com,100000,5,Bachelors,Skilled Manual,N
+255,Susan,Williams,1990-08-13,F,susan.williams255@email.com,40000,5,High School,Professional,Y
+256,Lisa,Campbell,1964-08-17,F,lisa.campbell256@email.com,60000,3,Partial High School,Manual,N
+257,William,Perez,1996-12-27,F,william.perez257@email.com,50000,0,High School,Skilled Manual,N
+258,Logan,Martin,1971-09-15,M,logan.martin258@email.com,70000,2,Partial High School,Skilled Manual,Y
+259,Mason,Collins,1991-05-19,F,mason.collins259@email.com,100000,2,Bachelors,Clerical,Y
+260,Susan,Wilson,1997-11-01,F,susan.wilson260@email.com,50000,0,High School,Clerical,Y
+261,Mark,Murphy,1978-12-14,F,mark.murphy261@email.com,60000,4,Partial High School,Professional,N
+262,Logan,King,1976-03-14,M,logan.king262@email.com,150000,0,Partial College,Management,Y
+263,Sandra,Rogers,1982-11-25,M,sandra.rogers263@email.com,150000,2,High School,Manual,Y
+264,Joseph,Wilson,1997-11-25,M,joseph.wilson264@email.com,90000,5,Partial High School,Management,N
+265,Amelia,Phillips,1997-03-29,M,amelia.phillips265@email.com,50000,5,Partial High School,Professional,N
+266,Noah,Cook,1987-06-16,M,noah.cook266@email.com,120000,0,Bachelors,Manual,Y
+267,Mia,Turner,1968-06-11,M,mia.turner267@email.com,70000,4,Partial College,Professional,Y
+268,Jackson,Parker,1998-11-08,M,jackson.parker268@email.com,100000,3,Bachelors,Clerical,Y
+269,Olivia,Green,1995-12-25,M,olivia.green269@email.com,100000,3,High School,Professional,N
+270,Thomas,Smith,1974-07-20,M,thomas.smith270@email.com,25000,3,High School,Professional,Y
+271,Robert,Carter,1957-11-05,F,robert.carter271@email.com,80000,1,Graduate Degree,Clerical,N
+272,Matthew,Adams,1988-11-12,F,matthew.adams272@email.com,30000,5,Partial High School,Skilled Manual,N
+273,Linda,Anderson,1990-04-06,M,linda.anderson273@email.com,50000,0,Bachelors,Management,N
+274,Aiden,Morgan,1993-01-18,F,aiden.morgan274@email.com,50000,1,Partial College,Management,Y
+275,Karen,Thomas,1965-02-14,M,karen.thomas275@email.com,150000,3,Partial High School,Professional,Y
+276,Jessica,Jones,1964-01-20,M,jessica.jones276@email.com,90000,4,Bachelors,Skilled Manual,Y
+277,Sandra,Adams,1976-01-09,M,sandra.adams277@email.com,25000,1,Partial High School,Management,Y
+278,Harper,Campbell,1983-08-11,F,harper.campbell278@email.com,50000,2,Graduate Degree,Manual,Y
+279,Anthony,Lee,1979-09-08,M,anthony.lee279@email.com,100000,4,Graduate Degree,Clerical,N
+280,Patricia,Allen,1989-03-12,F,patricia.allen280@email.com,80000,3,Graduate Degree,Management,N
+281,Susan,Murphy,1997-06-25,M,susan.murphy281@email.com,50000,2,Graduate Degree,Clerical,Y
+282,Ethan,Green,1992-05-14,M,ethan.green282@email.com,80000,1,High School,Skilled Manual,N
+283,Logan,Garcia,1995-05-09,F,logan.garcia283@email.com,30000,4,Graduate Degree,Professional,N
+284,Matthew,Rogers,1958-07-19,M,matthew.rogers284@email.com,50000,4,Partial High School,Skilled Manual,N
+285,Jessica,Hall,1982-03-14,M,jessica.hall285@email.com,50000,1,Bachelors,Clerical,Y
+286,Amelia,Evans,1973-05-07,F,amelia.evans286@email.com,50000,4,High School,Management,N
+287,Ashley,Turner,1987-03-26,F,ashley.turner287@email.com,60000,2,Partial High School,Clerical,N
+288,Michael,Morgan,1997-02-13,F,michael.morgan288@email.com,50000,2,High School,Clerical,Y
+289,Mia,White,1968-02-03,M,mia.white289@email.com,60000,4,Partial High School,Manual,N
+290,Charles,Moore,1972-08-07,F,charles.moore290@email.com,50000,3,Partial High School,Skilled Manual,N
+291,Ethan,Stewart,1985-04-14,F,ethan.stewart291@email.com,90000,5,Partial College,Clerical,Y
+292,Harper,Allen,1970-03-09,M,harper.allen292@email.com,100000,3,Graduate Degree,Manual,Y
+293,Noah,Williams,1961-09-01,M,noah.williams293@email.com,25000,3,Graduate Degree,Skilled Manual,Y
+294,Jackson,Moore,1955-10-27,M,jackson.moore294@email.com,100000,3,High School,Professional,N
+295,Charlotte,Mitchell,1956-05-30,M,charlotte.mitchell295@email.com,100000,4,Partial College,Professional,Y
+296,Noah,Morgan,1979-08-25,F,noah.morgan296@email.com,25000,4,Partial College,Skilled Manual,Y
+297,Michael,Roberts,1968-05-11,M,michael.roberts297@email.com,50000,4,Partial High School,Management,N
+298,Karen,Scott,1962-02-02,F,karen.scott298@email.com,80000,3,Partial High School,Skilled Manual,Y
+299,Lisa,Rogers,1962-03-26,M,lisa.rogers299@email.com,30000,3,Partial College,Clerical,N
+300,Patricia,Collins,1955-11-06,M,patricia.collins300@email.com,30000,3,Partial College,Management,Y
+301,Noah,Williams,1975-08-12,M,noah.williams301@email.com,120000,3,High School,Professional,Y
+302,Aiden,Thompson,1957-12-14,M,aiden.thompson302@email.com,70000,0,Graduate Degree,Manual,Y
+303,Evelyn,Cook,1990-09-25,M,evelyn.cook303@email.com,60000,1,Partial High School,Skilled Manual,N
+304,Aiden,Turner,1984-10-05,F,aiden.turner304@email.com,40000,5,Bachelors,Manual,N
+305,Patricia,Miller,1994-03-19,M,patricia.miller305@email.com,30000,2,Partial High School,Manual,N
+306,Oliver,Walker,1957-08-28,F,oliver.walker306@email.com,90000,3,Graduate Degree,Management,N
+307,Dorothy,Anderson,1989-02-05,M,dorothy.anderson307@email.com,120000,2,Graduate Degree,Professional,Y
+308,Karen,Moore,1989-02-02,M,karen.moore308@email.com,80000,2,High School,Professional,Y
+309,James,Lee,1994-11-25,F,james.lee309@email.com,60000,0,Graduate Degree,Professional,Y
+310,Dorothy,Adams,1991-08-10,M,dorothy.adams310@email.com,25000,0,High School,Manual,Y
+311,Sophia,Evans,1984-02-08,F,sophia.evans311@email.com,25000,2,Partial College,Clerical,Y
+312,Harper,Phillips,1976-10-11,M,harper.phillips312@email.com,150000,3,Graduate Degree,Skilled Manual,N
+313,Lisa,Thompson,1999-03-29,M,lisa.thompson313@email.com,30000,1,Partial College,Management,N
+314,Lisa,Carter,1961-11-25,F,lisa.carter314@email.com,60000,1,Partial College,Manual,Y
+315,Ashley,Miller,1967-02-26,F,ashley.miller315@email.com,25000,3,High School,Manual,N
+316,Nancy,Adams,1985-01-11,F,nancy.adams316@email.com,150000,4,Graduate Degree,Management,N
+317,Sophia,Reed,1973-01-07,F,sophia.reed317@email.com,70000,1,Partial College,Management,N
+318,Elijah,Reed,1999-01-19,M,elijah.reed318@email.com,70000,3,High School,Clerical,N
+319,Linda,Campbell,1972-12-04,M,linda.campbell319@email.com,150000,4,Bachelors,Clerical,Y
+320,Mark,Young,1961-03-16,F,mark.young320@email.com,150000,3,Graduate Degree,Management,Y
+321,Thomas,Morris,1968-10-29,F,thomas.morris321@email.com,80000,0,Partial College,Manual,N
+322,Lucas,Scott,1992-07-11,M,lucas.scott322@email.com,70000,5,Partial High School,Manual,Y
+323,Michael,Bailey,1977-04-09,F,michael.bailey323@email.com,40000,5,Partial High School,Professional,N
+324,Evelyn,Hall,1993-08-14,M,evelyn.hall324@email.com,25000,0,High School,Skilled Manual,Y
+325,Mark,King,1990-02-02,F,mark.king325@email.com,150000,4,Partial High School,Skilled Manual,N
+326,Maria,Carter,1964-05-18,F,maria.carter326@email.com,80000,0,Bachelors,Skilled Manual,N
+327,Lisa,Hall,1995-11-07,M,lisa.hall327@email.com,100000,3,High School,Clerical,Y
+328,Mark,Morgan,1995-08-04,F,mark.morgan328@email.com,30000,2,Bachelors,Professional,Y
+329,Nancy,Stewart,1964-10-23,M,nancy.stewart329@email.com,50000,4,Graduate Degree,Manual,Y
+330,Nancy,Phillips,1993-04-02,F,nancy.phillips330@email.com,50000,3,Graduate Degree,Skilled Manual,N
+331,Sandra,Johnson,1972-09-13,F,sandra.johnson331@email.com,120000,3,Partial College,Professional,Y
+332,Jessica,Thompson,1960-08-12,M,jessica.thompson332@email.com,100000,1,High School,Management,Y
+333,Ashley,Davis,1978-07-15,F,ashley.davis333@email.com,100000,5,High School,Manual,N
+334,Mason,Scott,1965-04-01,F,mason.scott334@email.com,70000,3,Partial High School,Skilled Manual,N
+335,Mason,Parker,1962-08-09,M,mason.parker335@email.com,70000,0,Graduate Degree,Management,Y
+336,Susan,King,1967-09-07,F,susan.king336@email.com,80000,4,Graduate Degree,Manual,N
+337,Dorothy,Anderson,1998-08-30,M,dorothy.anderson337@email.com,100000,1,Partial College,Management,Y
+338,Susan,Walker,1995-06-18,M,susan.walker338@email.com,70000,0,Partial College,Skilled Manual,Y
+339,Matthew,Phillips,1999-05-29,F,matthew.phillips339@email.com,150000,3,Partial College,Clerical,N
+340,David,Garcia,1957-10-08,M,david.garcia340@email.com,60000,0,High School,Skilled Manual,N
+341,David,Bailey,1996-01-11,F,david.bailey341@email.com,100000,4,Bachelors,Manual,Y
+342,Karen,Bailey,1987-11-30,M,karen.bailey342@email.com,90000,4,Graduate Degree,Clerical,Y
+343,Elijah,Stewart,1977-03-17,F,elijah.stewart343@email.com,25000,3,High School,Management,Y
+344,Mark,Davis,1976-04-04,M,mark.davis344@email.com,120000,5,High School,Manual,N
+345,David,Edwards,1967-06-29,M,david.edwards345@email.com,50000,0,Partial High School,Management,N
+346,Sophia,Turner,1970-02-08,F,sophia.turner346@email.com,60000,2,Partial High School,Management,Y
+347,William,Murphy,1991-12-05,M,william.murphy347@email.com,60000,5,Graduate Degree,Skilled Manual,Y
+348,Barbara,Cook,1983-11-24,M,barbara.cook348@email.com,150000,3,Partial College,Skilled Manual,N
+349,Isabella,Green,1988-08-28,F,isabella.green349@email.com,30000,5,Bachelors,Clerical,N
+350,Amelia,King,1995-10-17,F,amelia.king350@email.com,70000,4,Bachelors,Professional,N
+351,Isabella,Morris,1987-02-20,M,isabella.morris351@email.com,100000,3,Graduate Degree,Clerical,Y
+352,Liam,Thompson,1983-12-19,F,liam.thompson352@email.com,70000,4,Partial High School,Skilled Manual,N
+353,Abigail,Hall,1959-05-06,M,abigail.hall353@email.com,30000,5,Partial College,Professional,Y
+354,David,Adams,1995-12-16,M,david.adams354@email.com,80000,1,Graduate Degree,Management,Y
+355,Karen,Garcia,1987-05-03,F,karen.garcia355@email.com,30000,2,Graduate Degree,Professional,N
+356,Isabella,Lee,1976-01-03,F,isabella.lee356@email.com,150000,0,Bachelors,Professional,Y
+357,Emma,Jones,1966-11-27,M,emma.jones357@email.com,100000,5,Partial College,Professional,Y
+358,Amelia,Hall,1965-10-26,F,amelia.hall358@email.com,40000,3,Bachelors,Skilled Manual,N
+359,Jennifer,Morgan,1964-03-10,M,jennifer.morgan359@email.com,70000,2,High School,Skilled Manual,N
+360,Oliver,Murphy,1966-12-11,M,oliver.murphy360@email.com,30000,4,Partial High School,Professional,Y
+361,Mark,Allen,1974-02-11,M,mark.allen361@email.com,80000,4,Partial College,Skilled Manual,Y
+362,Michael,Wilson,1966-01-18,F,michael.wilson362@email.com,70000,3,High School,Skilled Manual,Y
+363,Karen,Stewart,1962-07-23,M,karen.stewart363@email.com,100000,4,Partial High School,Manual,N
+364,Oliver,Reed,1957-05-28,F,oliver.reed364@email.com,50000,4,Partial High School,Manual,Y
+365,Elijah,Scott,1981-07-07,M,elijah.scott365@email.com,50000,3,Partial College,Professional,Y
+366,Liam,Collins,1961-05-15,M,liam.collins366@email.com,70000,2,Graduate Degree,Clerical,N
+367,Betty,Turner,1970-07-02,F,betty.turner367@email.com,30000,0,Partial High School,Professional,Y
+368,Thomas,Jackson,1958-07-29,M,thomas.jackson368@email.com,80000,4,High School,Manual,N
+369,Dorothy,Reed,1991-02-02,M,dorothy.reed369@email.com,150000,4,Partial High School,Manual,Y
+370,Karen,Garcia,1982-10-21,M,karen.garcia370@email.com,100000,1,Graduate Degree,Manual,N
+371,Sandra,Parker,1960-12-06,F,sandra.parker371@email.com,80000,5,Graduate Degree,Professional,Y
+372,Jennifer,Baker,1965-05-28,F,jennifer.baker372@email.com,120000,4,Bachelors,Management,Y
+373,Linda,Smith,1967-04-24,M,linda.smith373@email.com,40000,3,High School,Manual,N
+374,David,King,1966-05-22,F,david.king374@email.com,30000,0,High School,Clerical,N
+375,Noah,Jones,1978-08-04,M,noah.jones375@email.com,90000,3,Partial High School,Management,Y
+376,Liam,Campbell,1969-12-21,F,liam.campbell376@email.com,40000,2,Bachelors,Manual,Y
+377,Joseph,Bell,1955-03-26,M,joseph.bell377@email.com,25000,1,Bachelors,Clerical,N
+378,Matthew,Moore,1971-01-21,M,matthew.moore378@email.com,100000,5,Partial College,Skilled Manual,N
+379,Sarah,Green,1983-09-14,F,sarah.green379@email.com,30000,4,High School,Professional,Y
+380,Susan,White,1959-02-13,F,susan.white380@email.com,30000,3,High School,Management,N
+381,Jennifer,Phillips,1995-12-23,M,jennifer.phillips381@email.com,70000,1,High School,Manual,N
+382,Elijah,Edwards,1976-10-05,F,elijah.edwards382@email.com,70000,4,Partial College,Skilled Manual,Y
+383,Barbara,Smith,1991-10-15,M,barbara.smith383@email.com,50000,4,High School,Professional,N
+384,James,Murphy,1988-10-03,F,james.murphy384@email.com,30000,1,Partial High School,Skilled Manual,N
+385,Liam,Brown,1967-10-10,F,liam.brown385@email.com,30000,0,Graduate Degree,Manual,N
+386,Amelia,King,1996-02-17,M,amelia.king386@email.com,120000,0,Partial High School,Skilled Manual,N
+387,Robert,Parker,1960-08-02,F,robert.parker387@email.com,150000,1,Graduate Degree,Management,N
+388,Christopher,Scott,1984-04-08,F,christopher.scott388@email.com,90000,2,Graduate Degree,Professional,Y
+389,William,Bailey,1964-10-10,M,william.bailey389@email.com,30000,1,Partial College,Clerical,N
+390,Anthony,Davis,1987-02-22,M,anthony.davis390@email.com,90000,2,Partial College,Management,Y
+391,Jennifer,Taylor,1982-04-17,M,jennifer.taylor391@email.com,50000,2,Graduate Degree,Professional,Y
+392,Daniel,Scott,1959-05-24,F,daniel.scott392@email.com,60000,1,Bachelors,Clerical,N
+393,Ethan,Bell,1977-06-01,M,ethan.bell393@email.com,90000,0,Graduate Degree,Professional,Y
+394,Patricia,Bailey,1974-12-10,M,patricia.bailey394@email.com,50000,3,High School,Professional,N
+395,Robert,Johnson,1960-10-13,M,robert.johnson395@email.com,150000,3,Graduate Degree,Professional,N
+396,Linda,Williams,1996-05-10,M,linda.williams396@email.com,40000,4,Partial College,Clerical,N
+397,Maria,Wright,1993-04-11,M,maria.wright397@email.com,70000,1,Graduate Degree,Management,N
+398,Mark,Moore,1958-02-09,M,mark.moore398@email.com,150000,2,Partial College,Clerical,N
+399,Patricia,Garcia,1980-02-06,F,patricia.garcia399@email.com,40000,3,Graduate Degree,Manual,Y
+400,Isabella,Turner,1956-10-01,F,isabella.turner400@email.com,70000,3,Partial High School,Clerical,N
+401,Mia,Perez,1983-11-08,F,mia.perez401@email.com,60000,1,Bachelors,Management,Y
+402,Maria,Bailey,1980-03-15,M,maria.bailey402@email.com,90000,4,High School,Manual,Y
+403,David,Miller,1977-03-27,M,david.miller403@email.com,60000,4,Bachelors,Skilled Manual,N
+404,Daniel,Anderson,1970-10-19,M,daniel.anderson404@email.com,120000,2,High School,Manual,Y
+405,Jackson,Reed,1986-07-20,M,jackson.reed405@email.com,120000,1,Partial College,Manual,N
+406,Susan,Mitchell,1958-05-28,M,susan.mitchell406@email.com,25000,1,Partial High School,Skilled Manual,Y
+407,Noah,Carter,1955-01-23,F,noah.carter407@email.com,120000,1,Graduate Degree,Management,Y
+408,Christopher,Brown,1956-12-19,M,christopher.brown408@email.com,120000,5,Graduate Degree,Professional,N
+409,Robert,King,1990-06-28,M,robert.king409@email.com,70000,2,High School,Skilled Manual,Y
+410,Harper,Baker,1998-09-16,F,harper.baker410@email.com,40000,5,Partial High School,Manual,N
+411,Joseph,Morris,1970-09-24,F,joseph.morris411@email.com,60000,5,High School,Skilled Manual,Y
+412,Harper,Smith,1990-02-17,M,harper.smith412@email.com,40000,4,High School,Manual,Y
+413,Isabella,Campbell,1964-05-04,F,isabella.campbell413@email.com,40000,2,Bachelors,Skilled Manual,N
+414,Christopher,Taylor,1962-12-17,F,christopher.taylor414@email.com,90000,0,High School,Skilled Manual,Y
+415,Amelia,Jones,1986-06-11,F,amelia.jones415@email.com,30000,5,Bachelors,Professional,N
+416,Mark,Morgan,1992-08-25,M,mark.morgan416@email.com,80000,3,Partial College,Management,N
+417,Michael,Carter,1975-03-28,M,michael.carter417@email.com,90000,0,Bachelors,Management,Y
+418,Christopher,Martin,1964-05-24,M,christopher.martin418@email.com,70000,1,Partial College,Skilled Manual,Y
+419,Ethan,Garcia,1985-04-26,F,ethan.garcia419@email.com,25000,3,Graduate Degree,Manual,N
+420,David,Brown,1964-02-01,F,david.brown420@email.com,50000,1,Partial College,Manual,N
+421,Charlotte,Young,1981-09-06,M,charlotte.young421@email.com,30000,0,Partial College,Manual,N
+422,Barbara,Brown,1987-05-16,M,barbara.brown422@email.com,80000,0,High School,Manual,N
+423,Richard,Miller,1957-04-23,M,richard.miller423@email.com,40000,5,High School,Professional,N
+424,Linda,Lee,1990-08-29,F,linda.lee424@email.com,90000,5,High School,Professional,N
+425,Susan,King,1989-03-22,F,susan.king425@email.com,40000,3,Bachelors,Management,N
+426,Ashley,Martin,1975-04-19,F,ashley.martin426@email.com,120000,0,Graduate Degree,Professional,Y
+427,Charlotte,Allen,1992-02-21,M,charlotte.allen427@email.com,100000,0,Partial College,Manual,N
+428,Ava,Rogers,1997-08-07,M,ava.rogers428@email.com,90000,2,Bachelors,Clerical,Y
+429,Olivia,Campbell,1968-03-24,M,olivia.campbell429@email.com,90000,1,Graduate Degree,Skilled Manual,Y
+430,William,Williams,1992-12-25,M,william.williams430@email.com,150000,3,Graduate Degree,Skilled Manual,N
+431,Christopher,Morgan,1961-01-04,M,christopher.morgan431@email.com,80000,4,Partial College,Manual,N
+432,Karen,Roberts,1996-02-07,M,karen.roberts432@email.com,120000,4,Partial High School,Clerical,Y
+433,Anthony,Moore,1968-04-18,M,anthony.moore433@email.com,30000,4,Bachelors,Management,N
+434,Anthony,Martin,1989-05-13,F,anthony.martin434@email.com,120000,4,Partial College,Professional,Y
+435,Karen,Scott,1967-11-27,F,karen.scott435@email.com,25000,3,High School,Skilled Manual,Y
+436,Elijah,Carter,1979-02-04,F,elijah.carter436@email.com,25000,2,High School,Management,N
+437,Liam,Reed,1963-10-24,M,liam.reed437@email.com,40000,2,Partial College,Management,N
+438,Harper,Green,1963-01-04,M,harper.green438@email.com,90000,1,Partial College,Clerical,N
+439,Patricia,Perez,1969-04-06,M,patricia.perez439@email.com,60000,5,Partial High School,Clerical,Y
+440,Oliver,Roberts,1957-08-06,M,oliver.roberts440@email.com,50000,1,Bachelors,Skilled Manual,Y
+441,Ashley,Brown,1987-05-01,M,ashley.brown441@email.com,60000,2,Partial College,Manual,N
+442,Isabella,Davis,1957-09-28,M,isabella.davis442@email.com,70000,3,Partial High School,Clerical,Y
+443,Emma,Parker,1986-05-18,F,emma.parker443@email.com,40000,2,Bachelors,Management,Y
+444,Matthew,Brown,1969-08-13,M,matthew.brown444@email.com,50000,5,Graduate Degree,Skilled Manual,N
+445,Logan,Green,1956-10-19,M,logan.green445@email.com,90000,1,Graduate Degree,Manual,Y
+446,Joseph,Martin,1982-05-28,F,joseph.martin446@email.com,80000,3,High School,Clerical,N
+447,Jessica,Nelson,1982-02-08,F,jessica.nelson447@email.com,120000,0,Bachelors,Manual,N
+448,Ethan,Stewart,1980-05-11,F,ethan.stewart448@email.com,150000,0,Partial College,Professional,N
+449,Karen,Collins,1984-03-03,F,karen.collins449@email.com,60000,5,High School,Skilled Manual,Y
+450,Noah,Murphy,1976-07-23,M,noah.murphy450@email.com,120000,3,High School,Skilled Manual,Y
+451,Logan,Mitchell,1981-07-09,F,logan.mitchell451@email.com,80000,3,Partial College,Professional,Y
+452,Nancy,Morgan,1974-12-13,F,nancy.morgan452@email.com,150000,2,Partial High School,Management,Y
+453,Charlotte,Phillips,1971-04-02,F,charlotte.phillips453@email.com,30000,3,Graduate Degree,Management,Y
+454,Aiden,Hall,1963-01-05,M,aiden.hall454@email.com,70000,1,High School,Clerical,N
+455,Betty,Martin,1981-05-19,F,betty.martin455@email.com,30000,3,Bachelors,Manual,Y
+456,Emma,Thomas,1999-11-25,M,emma.thomas456@email.com,150000,3,Partial High School,Management,N
+457,Patricia,Moore,1967-04-29,M,patricia.moore457@email.com,70000,3,Partial High School,Clerical,Y
+458,Christopher,Cook,1971-03-07,M,christopher.cook458@email.com,90000,2,Graduate Degree,Management,Y
+459,James,Adams,1979-07-16,M,james.adams459@email.com,40000,4,Graduate Degree,Clerical,Y
+460,William,Edwards,1993-11-28,F,william.edwards460@email.com,80000,3,Partial College,Clerical,Y
+461,John,Turner,1972-11-21,F,john.turner461@email.com,25000,2,Partial High School,Skilled Manual,Y
+462,Aiden,Smith,1977-04-28,M,aiden.smith462@email.com,70000,2,Graduate Degree,Professional,N
+463,Olivia,Parker,1982-06-18,M,olivia.parker463@email.com,30000,0,High School,Management,N
+464,Harper,Roberts,1985-04-23,F,harper.roberts464@email.com,150000,1,High School,Clerical,N
+465,Evelyn,Thomas,1969-10-16,F,evelyn.thomas465@email.com,25000,1,Graduate Degree,Skilled Manual,Y
+466,Harper,Johnson,1970-02-28,M,harper.johnson466@email.com,70000,5,Bachelors,Clerical,N
+467,Oliver,Turner,1959-05-12,M,oliver.turner467@email.com,150000,0,Bachelors,Professional,Y
+468,Anthony,Adams,1989-02-11,M,anthony.adams468@email.com,100000,2,Partial College,Skilled Manual,Y
+469,Amelia,Rogers,1955-11-01,F,amelia.rogers469@email.com,80000,5,Bachelors,Manual,N
+470,Mason,Evans,1967-04-22,F,mason.evans470@email.com,30000,4,Partial High School,Professional,N
+471,Linda,Miller,1999-08-27,M,linda.miller471@email.com,120000,1,High School,Manual,Y
+472,Daniel,Cook,1991-10-05,F,daniel.cook472@email.com,40000,0,Partial High School,Clerical,Y
+473,Amelia,Carter,1984-08-29,M,amelia.carter473@email.com,25000,0,Bachelors,Professional,N
+474,Barbara,Garcia,1961-09-25,M,barbara.garcia474@email.com,60000,5,Graduate Degree,Clerical,N
+475,Thomas,Nelson,1959-06-30,M,thomas.nelson475@email.com,40000,0,High School,Management,N
+476,Dorothy,Bell,1965-05-25,M,dorothy.bell476@email.com,25000,0,Graduate Degree,Skilled Manual,N
+477,Daniel,Adams,1979-01-26,M,daniel.adams477@email.com,70000,2,Graduate Degree,Professional,N
+478,Sandra,Nelson,1979-05-22,F,sandra.nelson478@email.com,90000,3,Graduate Degree,Professional,Y
+479,Amelia,Morgan,1960-04-05,M,amelia.morgan479@email.com,30000,3,Partial High School,Clerical,N
+480,Susan,Edwards,1989-01-25,F,susan.edwards480@email.com,120000,0,Graduate Degree,Clerical,N
+481,Linda,Green,1994-07-15,M,linda.green481@email.com,30000,2,High School,Professional,Y
+482,Charlotte,Hall,1963-07-18,F,charlotte.hall482@email.com,150000,5,Graduate Degree,Clerical,N
+483,Charlotte,Rogers,1989-07-12,M,charlotte.rogers483@email.com,100000,4,Bachelors,Professional,Y
+484,Olivia,Carter,1999-06-26,M,olivia.carter484@email.com,30000,3,High School,Skilled Manual,N
+485,Karen,Brown,1974-12-24,F,karen.brown485@email.com,80000,1,Bachelors,Clerical,N
+486,Mia,Adams,1962-11-24,F,mia.adams486@email.com,90000,2,Bachelors,Clerical,Y
+487,Michael,Scott,1991-12-29,M,michael.scott487@email.com,100000,4,Bachelors,Professional,N
+488,Olivia,Phillips,1973-07-23,F,olivia.phillips488@email.com,70000,2,Bachelors,Skilled Manual,N
+489,Nancy,Phillips,1997-06-12,F,nancy.phillips489@email.com,90000,0,Bachelors,Skilled Manual,Y
+490,Nancy,Allen,1981-03-12,F,nancy.allen490@email.com,30000,0,Graduate Degree,Clerical,Y
+491,Jackson,Bell,1991-09-18,M,jackson.bell491@email.com,60000,4,Graduate Degree,Skilled Manual,Y
+492,Sandra,Jackson,1996-01-02,M,sandra.jackson492@email.com,70000,0,Partial College,Professional,Y
+493,Oliver,Adams,1996-01-13,M,oliver.adams493@email.com,90000,0,Partial High School,Professional,N
+494,Lucas,Carter,1970-11-24,M,lucas.carter494@email.com,40000,0,Partial College,Manual,N
+495,Olivia,Wright,1992-07-23,M,olivia.wright495@email.com,60000,3,High School,Management,N
+496,William,Wilson,1992-01-11,F,william.wilson496@email.com,100000,2,Partial High School,Skilled Manual,Y
+497,Jessica,Edwards,1981-01-25,F,jessica.edwards497@email.com,150000,1,Graduate Degree,Manual,N
+498,Jackson,Davis,1986-08-08,F,jackson.davis498@email.com,120000,4,Partial College,Manual,N
+499,Dorothy,Smith,1964-07-20,M,dorothy.smith499@email.com,80000,1,Bachelors,Professional,Y
+500,Karen,Murphy,1969-06-09,F,karen.murphy500@email.com,150000,2,Graduate Degree,Professional,N
+501,Jessica,Murphy,1957-11-24,F,jessica.murphy501@email.com,90000,0,Partial High School,Manual,Y
+502,Elijah,Stewart,1989-11-21,M,elijah.stewart502@email.com,100000,5,High School,Professional,N
+503,Matthew,Green,1983-01-19,M,matthew.green503@email.com,25000,5,High School,Skilled Manual,N
+504,Joseph,Collins,1987-12-29,M,joseph.collins504@email.com,50000,2,Partial College,Skilled Manual,Y
+505,Susan,Anderson,1965-09-15,F,susan.anderson505@email.com,25000,3,High School,Manual,N
+506,William,Taylor,1977-11-17,M,william.taylor506@email.com,70000,3,Graduate Degree,Professional,Y
+507,Christopher,Evans,1959-07-25,F,christopher.evans507@email.com,90000,4,Partial High School,Management,Y
+508,Abigail,Cook,1983-07-08,M,abigail.cook508@email.com,40000,4,Bachelors,Manual,Y
+509,Anthony,Turner,1991-03-12,M,anthony.turner509@email.com,70000,1,Graduate Degree,Management,N
+510,Betty,Young,1974-08-07,F,betty.young510@email.com,100000,5,Bachelors,Professional,N
+511,Mark,Harris,1976-11-15,M,mark.harris511@email.com,150000,2,Partial College,Professional,N
+512,Thomas,Turner,1980-05-16,M,thomas.turner512@email.com,100000,2,Partial High School,Manual,N
+513,Liam,Williams,1981-08-05,M,liam.williams513@email.com,70000,4,Bachelors,Professional,Y
+514,Oliver,Turner,1955-08-29,M,oliver.turner514@email.com,50000,5,Graduate Degree,Clerical,Y
+515,Jessica,Turner,1994-01-17,M,jessica.turner515@email.com,150000,1,Bachelors,Clerical,N
+516,John,Garcia,1961-07-28,M,john.garcia516@email.com,40000,2,Partial High School,Professional,Y
+517,Thomas,Green,1989-10-24,F,thomas.green517@email.com,150000,3,Partial College,Management,Y
+518,Matthew,Rogers,1965-08-12,M,matthew.rogers518@email.com,150000,5,Partial High School,Professional,Y
+519,Amelia,Jones,1987-02-03,M,amelia.jones519@email.com,60000,5,High School,Manual,Y
+520,Charles,Murphy,1994-04-07,F,charles.murphy520@email.com,80000,5,Bachelors,Clerical,Y
+521,Ava,White,1967-03-27,F,ava.white521@email.com,100000,2,Graduate Degree,Management,N
+522,James,Phillips,1967-09-07,M,james.phillips522@email.com,25000,0,Partial High School,Manual,N
+523,Ava,Phillips,1962-08-21,F,ava.phillips523@email.com,50000,5,High School,Skilled Manual,N
+524,Logan,Perez,1967-10-12,M,logan.perez524@email.com,40000,1,Partial High School,Management,Y
+525,Linda,Anderson,1959-11-18,F,linda.anderson525@email.com,150000,4,Bachelors,Management,Y
+526,Thomas,Miller,1972-09-16,F,thomas.miller526@email.com,70000,2,Graduate Degree,Skilled Manual,Y
+527,Charles,Edwards,1961-04-06,M,charles.edwards527@email.com,70000,3,Partial College,Management,N
+528,Amelia,Parker,1968-09-02,F,amelia.parker528@email.com,70000,3,Graduate Degree,Professional,N
+529,Sarah,White,1994-02-15,F,sarah.white529@email.com,70000,1,High School,Clerical,N
+530,Mark,Allen,1982-05-28,F,mark.allen530@email.com,100000,0,Graduate Degree,Manual,Y
+531,Karen,Wilson,1972-08-15,F,karen.wilson531@email.com,150000,0,Bachelors,Professional,Y
+532,Lucas,Parker,1991-05-07,M,lucas.parker532@email.com,25000,4,High School,Manual,N
+533,Logan,Bailey,1968-05-02,F,logan.bailey533@email.com,80000,1,Partial High School,Management,Y
+534,Ashley,Perez,1963-02-15,F,ashley.perez534@email.com,70000,4,Bachelors,Skilled Manual,Y
+535,Evelyn,Perez,1967-08-05,F,evelyn.perez535@email.com,40000,1,Partial High School,Manual,Y
+536,Elijah,Morgan,1998-05-18,F,elijah.morgan536@email.com,25000,1,Partial College,Skilled Manual,Y
+537,Thomas,King,1975-12-30,M,thomas.king537@email.com,150000,1,Partial High School,Management,N
+538,Emma,Nelson,1959-03-02,M,emma.nelson538@email.com,150000,2,Bachelors,Manual,N
+539,Elijah,Martin,1970-08-06,F,elijah.martin539@email.com,150000,3,High School,Manual,Y
+540,Noah,Martin,1988-10-05,M,noah.martin540@email.com,100000,3,High School,Management,N
+541,Abigail,Carter,1955-08-05,M,abigail.carter541@email.com,90000,1,Graduate Degree,Professional,N
+542,Jessica,Moore,1971-10-08,M,jessica.moore542@email.com,70000,4,Bachelors,Skilled Manual,N
+543,Nancy,Morgan,1965-03-02,F,nancy.morgan543@email.com,150000,3,Partial College,Skilled Manual,Y
+544,Logan,Green,1957-01-05,M,logan.green544@email.com,25000,1,Partial High School,Manual,Y
+545,William,Collins,1958-07-08,M,william.collins545@email.com,25000,1,High School,Skilled Manual,N
+546,Sophia,Campbell,1956-09-02,F,sophia.campbell546@email.com,30000,1,Partial College,Manual,N
+547,Emma,Taylor,1974-09-06,F,emma.taylor547@email.com,120000,1,Partial High School,Skilled Manual,N
+548,David,Morgan,1985-09-28,F,david.morgan548@email.com,120000,4,Bachelors,Skilled Manual,N
+549,Matthew,Wilson,1964-09-27,M,matthew.wilson549@email.com,50000,4,Partial High School,Clerical,Y
+550,Sophia,Miller,1970-12-01,F,sophia.miller550@email.com,120000,4,Bachelors,Manual,Y
+551,Jennifer,Carter,1966-09-10,M,jennifer.carter551@email.com,150000,5,Partial College,Manual,N
+552,Betty,Williams,1993-06-26,M,betty.williams552@email.com,90000,3,High School,Manual,Y
+553,Dorothy,Wilson,1977-11-01,F,dorothy.wilson553@email.com,50000,0,High School,Manual,N
+554,Thomas,Thomas,1955-06-29,M,thomas.thomas554@email.com,120000,4,Bachelors,Manual,Y
+555,Matthew,Stewart,1973-06-06,F,matthew.stewart555@email.com,80000,2,Bachelors,Skilled Manual,N
+556,Logan,Parker,1977-10-03,F,logan.parker556@email.com,100000,3,Partial High School,Management,N
+557,Aiden,Scott,1973-04-10,F,aiden.scott557@email.com,100000,4,Partial College,Skilled Manual,N
+558,Ethan,Phillips,1998-05-26,F,ethan.phillips558@email.com,60000,4,High School,Clerical,Y
+559,Charlotte,Davis,1975-08-13,F,charlotte.davis559@email.com,40000,0,Graduate Degree,Manual,N
+560,Abigail,Hall,1959-09-02,M,abigail.hall560@email.com,80000,5,Bachelors,Professional,Y
+561,Emma,Evans,1994-01-22,M,emma.evans561@email.com,30000,2,Graduate Degree,Management,Y
+562,Sophia,Williams,1989-06-24,F,sophia.williams562@email.com,120000,5,Partial High School,Management,Y
+563,Oliver,Anderson,1999-05-09,F,oliver.anderson563@email.com,25000,1,Partial High School,Management,Y
+564,John,Evans,1975-10-14,M,john.evans564@email.com,150000,0,High School,Skilled Manual,Y
+565,David,Garcia,1979-10-03,F,david.garcia565@email.com,70000,5,Partial College,Clerical,Y
+566,Noah,Smith,1961-02-26,M,noah.smith566@email.com,100000,2,Partial High School,Manual,N
+567,Daniel,Thompson,1975-04-21,M,daniel.thompson567@email.com,90000,3,Partial High School,Professional,N
+568,Susan,Green,1964-07-20,M,susan.green568@email.com,100000,2,High School,Professional,N
+569,Ava,Campbell,1977-06-10,F,ava.campbell569@email.com,80000,4,Partial College,Skilled Manual,N
+570,Oliver,Nelson,1996-05-01,M,oliver.nelson570@email.com,90000,0,High School,Professional,N
+571,Isabella,White,1975-08-18,F,isabella.white571@email.com,80000,2,Partial High School,Manual,Y
+572,Amelia,Martin,1977-04-09,F,amelia.martin572@email.com,30000,3,High School,Professional,Y
+573,Emma,Walker,1986-09-19,M,emma.walker573@email.com,120000,2,Graduate Degree,Skilled Manual,N
+574,Elijah,Thomas,1976-01-26,M,elijah.thomas574@email.com,60000,1,Graduate Degree,Skilled Manual,Y
+575,Mason,Allen,1968-12-29,M,mason.allen575@email.com,30000,0,Partial College,Manual,Y
+576,Evelyn,Turner,1958-10-16,F,evelyn.turner576@email.com,70000,4,High School,Clerical,N
+577,Liam,Anderson,1980-02-22,F,liam.anderson577@email.com,50000,4,Graduate Degree,Professional,N
+578,Emma,Turner,1957-12-03,F,emma.turner578@email.com,80000,5,Graduate Degree,Clerical,Y
+579,Amelia,Roberts,1996-04-10,F,amelia.roberts579@email.com,25000,0,Graduate Degree,Clerical,Y
+580,Christopher,King,1978-04-19,M,christopher.king580@email.com,100000,2,Graduate Degree,Management,N
+581,Mason,Hall,1987-10-30,M,mason.hall581@email.com,90000,3,Graduate Degree,Clerical,N
+582,Betty,Scott,1980-02-01,F,betty.scott582@email.com,40000,4,Graduate Degree,Manual,Y
+583,Michael,Morgan,1979-03-21,M,michael.morgan583@email.com,100000,3,Partial College,Skilled Manual,Y
+584,Elijah,Moore,1997-06-07,M,elijah.moore584@email.com,40000,3,Partial College,Skilled Manual,N
+585,Abigail,Mitchell,1981-12-01,F,abigail.mitchell585@email.com,100000,4,Bachelors,Clerical,Y
+586,Amelia,Taylor,1960-05-21,M,amelia.taylor586@email.com,60000,3,Bachelors,Clerical,N
+587,Thomas,King,1987-04-29,F,thomas.king587@email.com,70000,0,Partial College,Professional,N
+588,Aiden,Evans,1972-11-06,M,aiden.evans588@email.com,60000,2,High School,Manual,N
+589,Oliver,Bell,1995-02-05,M,oliver.bell589@email.com,80000,4,High School,Clerical,Y
+590,David,Collins,1985-04-08,F,david.collins590@email.com,150000,4,Partial High School,Clerical,Y
+591,Jennifer,Taylor,1985-10-29,M,jennifer.taylor591@email.com,70000,2,High School,Management,N
+592,Karen,Adams,1987-08-01,F,karen.adams592@email.com,80000,1,Graduate Degree,Professional,Y
+593,Harper,Harris,1977-07-29,M,harper.harris593@email.com,50000,1,Partial College,Professional,Y
+594,Robert,Carter,1959-10-30,M,robert.carter594@email.com,80000,4,Bachelors,Professional,N
+595,Mason,Moore,1962-07-25,F,mason.moore595@email.com,60000,1,Graduate Degree,Management,N
+596,Isabella,Wilson,1966-10-11,M,isabella.wilson596@email.com,25000,0,High School,Management,N
+597,Ashley,Turner,1979-06-10,F,ashley.turner597@email.com,40000,5,Partial High School,Skilled Manual,N
+598,Isabella,Bell,1994-01-09,F,isabella.bell598@email.com,70000,3,Partial High School,Skilled Manual,Y
+599,Mark,Lee,1987-10-25,F,mark.lee599@email.com,60000,1,High School,Professional,Y
+600,Noah,Murphy,1967-03-25,F,noah.murphy600@email.com,60000,3,Partial High School,Professional,N
+601,Evelyn,Carter,1981-11-17,M,evelyn.carter601@email.com,80000,2,Partial High School,Skilled Manual,Y
+602,Ethan,King,1971-12-02,F,ethan.king602@email.com,100000,3,Partial College,Skilled Manual,Y
+603,Jackson,Bell,1989-12-18,F,jackson.bell603@email.com,50000,2,Bachelors,Clerical,Y
+604,Noah,Murphy,1979-05-23,F,noah.murphy604@email.com,150000,5,Partial High School,Management,N
+605,Richard,Jones,1971-05-14,M,richard.jones605@email.com,60000,0,Partial College,Manual,N
+606,Karen,Reed,1999-02-20,M,karen.reed606@email.com,70000,0,Graduate Degree,Professional,Y
+607,Susan,Miller,1980-04-23,F,susan.miller607@email.com,40000,5,Partial College,Professional,Y
+608,Jennifer,Moore,1956-04-27,F,jennifer.moore608@email.com,50000,2,Partial College,Management,N
+609,Betty,Nelson,1957-11-05,F,betty.nelson609@email.com,30000,1,Bachelors,Management,N
+610,Robert,Turner,1997-03-06,M,robert.turner610@email.com,50000,2,Partial College,Professional,Y
+611,Oliver,Cook,1977-05-02,F,oliver.cook611@email.com,90000,1,Bachelors,Skilled Manual,N
+612,Elijah,Bailey,1963-06-06,M,elijah.bailey612@email.com,90000,3,High School,Management,Y
+613,Isabella,Morgan,1958-10-14,M,isabella.morgan613@email.com,60000,3,High School,Skilled Manual,N
+614,Patricia,Morris,1974-07-16,M,patricia.morris614@email.com,50000,5,Partial College,Management,Y
+615,David,Thompson,1965-09-25,F,david.thompson615@email.com,50000,0,Bachelors,Manual,N
+616,Amelia,Evans,1968-11-26,F,amelia.evans616@email.com,30000,1,Graduate Degree,Clerical,Y
+617,Aiden,Edwards,1985-05-12,M,aiden.edwards617@email.com,25000,2,Graduate Degree,Manual,Y
+618,William,Mitchell,1975-11-16,F,william.mitchell618@email.com,100000,5,High School,Clerical,Y
+619,Maria,Reed,1988-11-21,F,maria.reed619@email.com,40000,2,Bachelors,Clerical,N
+620,Ethan,Young,1998-12-20,M,ethan.young620@email.com,120000,1,Partial High School,Management,N
+621,Harper,Nelson,1979-09-13,M,harper.nelson621@email.com,30000,4,Graduate Degree,Clerical,N
+622,Thomas,Turner,1987-12-08,F,thomas.turner622@email.com,25000,5,Partial High School,Clerical,Y
+623,Maria,Edwards,1987-08-31,M,maria.edwards623@email.com,70000,5,Bachelors,Manual,N
+624,Richard,Roberts,1999-08-21,M,richard.roberts624@email.com,120000,2,High School,Clerical,N
+625,Linda,Miller,1960-12-24,M,linda.miller625@email.com,40000,1,Bachelors,Skilled Manual,Y
+626,Liam,Thomas,1963-11-10,M,liam.thomas626@email.com,120000,5,Partial College,Clerical,N
+627,Patricia,King,1974-10-20,M,patricia.king627@email.com,25000,1,Partial College,Professional,N
+628,Isabella,Brown,1987-05-19,F,isabella.brown628@email.com,70000,5,Bachelors,Manual,N
+629,Noah,Williams,1961-04-25,F,noah.williams629@email.com,30000,1,Partial High School,Professional,Y
+630,Harper,White,1989-07-27,M,harper.white630@email.com,50000,4,Graduate Degree,Manual,Y
+631,Ethan,Bell,1992-03-31,M,ethan.bell631@email.com,150000,4,High School,Clerical,N
+632,Michael,Taylor,1971-03-09,F,michael.taylor632@email.com,100000,2,Graduate Degree,Manual,N
+633,Daniel,Walker,1984-02-16,F,daniel.walker633@email.com,80000,5,Partial College,Management,Y
+634,Mia,Turner,1974-03-11,F,mia.turner634@email.com,100000,5,High School,Management,N
+635,Mark,Scott,1955-01-07,M,mark.scott635@email.com,60000,4,Bachelors,Manual,Y
+636,Lisa,Smith,1981-12-11,M,lisa.smith636@email.com,50000,2,Bachelors,Management,Y
+637,Michael,Williams,1996-04-20,F,michael.williams637@email.com,40000,1,High School,Management,Y
+638,Joseph,Martin,1981-12-10,M,joseph.martin638@email.com,120000,3,Partial High School,Skilled Manual,Y
+639,Harper,Walker,1998-04-16,M,harper.walker639@email.com,90000,5,Partial High School,Professional,N
+640,John,Morgan,1989-03-25,M,john.morgan640@email.com,25000,2,High School,Clerical,N
+641,Linda,Bailey,1975-05-05,M,linda.bailey641@email.com,150000,5,Partial College,Professional,N
+642,Noah,Williams,1983-08-25,M,noah.williams642@email.com,70000,4,Graduate Degree,Skilled Manual,Y
+643,Aiden,Morgan,1990-03-31,F,aiden.morgan643@email.com,120000,4,Partial High School,Professional,Y
+644,Dorothy,Young,1990-05-18,M,dorothy.young644@email.com,40000,2,Bachelors,Clerical,Y
+645,Ethan,Scott,1978-07-22,M,ethan.scott645@email.com,80000,4,Partial College,Skilled Manual,Y
+646,Emma,Phillips,1972-10-09,F,emma.phillips646@email.com,80000,5,Partial High School,Skilled Manual,Y
+647,Sarah,Jones,1978-11-20,F,sarah.jones647@email.com,70000,5,Partial High School,Professional,Y
+648,Charlotte,Green,1992-12-30,F,charlotte.green648@email.com,70000,1,High School,Management,Y
+649,Oliver,Lee,1970-03-09,F,oliver.lee649@email.com,120000,3,Partial High School,Skilled Manual,N
+650,John,White,1972-11-30,F,john.white650@email.com,40000,5,Bachelors,Professional,Y
+651,Sarah,Edwards,1968-04-01,F,sarah.edwards651@email.com,25000,2,Bachelors,Management,N
+652,Emma,Johnson,1984-10-09,M,emma.johnson652@email.com,100000,1,Graduate Degree,Manual,N
+653,Ethan,Carter,1967-09-06,M,ethan.carter653@email.com,80000,4,Partial High School,Professional,N
+654,David,Brown,1980-06-24,M,david.brown654@email.com,120000,2,Bachelors,Clerical,Y
+655,Robert,Wright,1979-05-05,F,robert.wright655@email.com,30000,0,High School,Clerical,Y
+656,Matthew,Perez,1963-12-08,F,matthew.perez656@email.com,90000,4,Partial High School,Professional,Y
+657,Richard,Perez,1996-02-02,M,richard.perez657@email.com,25000,1,Partial High School,Management,N
+658,Liam,Scott,1969-01-31,M,liam.scott658@email.com,70000,5,High School,Management,N
+659,Sarah,Perez,1979-10-01,M,sarah.perez659@email.com,150000,2,Partial College,Professional,N
+660,Joseph,Moore,1985-08-30,F,joseph.moore660@email.com,150000,1,Bachelors,Clerical,Y
+661,Anthony,Harris,1968-09-14,F,anthony.harris661@email.com,60000,4,High School,Clerical,Y
+662,Jessica,Stewart,1967-06-07,M,jessica.stewart662@email.com,40000,2,Partial High School,Skilled Manual,N
+663,Oliver,Moore,1969-03-06,F,oliver.moore663@email.com,30000,4,Partial High School,Professional,Y
+664,Christopher,Moore,1957-08-24,F,christopher.moore664@email.com,80000,3,High School,Clerical,N
+665,Barbara,Bailey,1971-11-11,M,barbara.bailey665@email.com,40000,1,Bachelors,Manual,N
+666,Sophia,Campbell,1975-09-19,M,sophia.campbell666@email.com,50000,5,Bachelors,Management,Y
+667,Amelia,Bailey,1997-10-04,M,amelia.bailey667@email.com,100000,4,Partial College,Management,Y
+668,Matthew,Mitchell,1997-07-06,M,matthew.mitchell668@email.com,40000,1,Graduate Degree,Professional,N
+669,Evelyn,Smith,1979-03-18,F,evelyn.smith669@email.com,50000,5,Graduate Degree,Skilled Manual,Y
+670,Susan,Adams,1998-12-15,F,susan.adams670@email.com,90000,1,Partial College,Clerical,Y
+671,Sophia,Bell,1989-02-15,F,sophia.bell671@email.com,80000,4,Partial High School,Manual,Y
+672,Noah,Miller,1995-07-08,F,noah.miller672@email.com,25000,1,Partial High School,Manual,N
+673,Elijah,Williams,1989-10-03,M,elijah.williams673@email.com,50000,2,Partial College,Clerical,N
+674,Oliver,Young,1996-05-22,M,oliver.young674@email.com,80000,2,Partial High School,Professional,Y
+675,Ashley,Stewart,1995-07-11,M,ashley.stewart675@email.com,100000,0,Graduate Degree,Manual,Y
+676,Sandra,Green,1984-01-08,F,sandra.green676@email.com,25000,1,Partial College,Manual,Y
+677,Ashley,Garcia,1977-06-08,F,ashley.garcia677@email.com,150000,5,Graduate Degree,Professional,Y
+678,Linda,Cook,1995-04-26,F,linda.cook678@email.com,30000,4,Partial College,Manual,Y
+679,Matthew,Phillips,1989-02-22,M,matthew.phillips679@email.com,40000,2,Partial High School,Skilled Manual,Y
+680,Barbara,Anderson,1959-08-09,F,barbara.anderson680@email.com,60000,2,Partial College,Management,Y
+681,Linda,Wilson,1973-03-14,M,linda.wilson681@email.com,120000,2,Bachelors,Clerical,N
+682,Liam,Turner,1955-07-08,F,liam.turner682@email.com,50000,1,Partial High School,Clerical,N
+683,Anthony,Adams,1962-02-14,M,anthony.adams683@email.com,50000,4,High School,Manual,Y
+684,Patricia,Anderson,1968-04-20,M,patricia.anderson684@email.com,150000,2,Bachelors,Skilled Manual,Y
+685,Charlotte,Campbell,1981-10-10,F,charlotte.campbell685@email.com,30000,0,Bachelors,Clerical,Y
+686,David,Rogers,1980-07-06,M,david.rogers686@email.com,90000,5,Partial High School,Management,Y
+687,Jennifer,Bailey,1981-11-07,F,jennifer.bailey687@email.com,70000,3,Bachelors,Clerical,Y
+688,Charles,Carter,1967-01-26,M,charles.carter688@email.com,60000,2,Partial High School,Clerical,Y
+689,Amelia,Jackson,1960-03-21,M,amelia.jackson689@email.com,120000,5,Partial High School,Professional,N
+690,Harper,Reed,1980-10-06,F,harper.reed690@email.com,120000,2,High School,Manual,N
+691,William,Edwards,1999-07-14,F,william.edwards691@email.com,90000,1,Partial High School,Skilled Manual,N
+692,Richard,Smith,1965-08-09,M,richard.smith692@email.com,90000,5,Bachelors,Skilled Manual,N
+693,Anthony,Williams,1984-12-11,F,anthony.williams693@email.com,100000,5,Graduate Degree,Professional,Y
+694,Amelia,Young,1977-10-28,M,amelia.young694@email.com,60000,2,Partial High School,Manual,N
+695,Oliver,Smith,1965-03-19,F,oliver.smith695@email.com,70000,3,Partial High School,Manual,Y
+696,Susan,Thomas,1984-08-26,F,susan.thomas696@email.com,150000,3,Partial College,Professional,Y
+697,Emma,Moore,1996-04-28,F,emma.moore697@email.com,90000,3,Bachelors,Manual,N
+698,Mia,Morgan,1983-04-22,M,mia.morgan698@email.com,50000,4,High School,Management,Y
+699,Barbara,Thompson,1957-10-18,F,barbara.thompson699@email.com,80000,5,Partial High School,Skilled Manual,N
+700,Susan,Evans,1965-06-25,F,susan.evans700@email.com,70000,5,Bachelors,Management,N
+701,Jennifer,Mitchell,1976-04-27,F,jennifer.mitchell701@email.com,90000,2,Graduate Degree,Manual,N
+702,Susan,Davis,1988-07-28,M,susan.davis702@email.com,50000,0,Partial College,Manual,Y
+703,Emma,Perez,1968-10-27,M,emma.perez703@email.com,70000,3,Partial High School,Management,N
+704,Barbara,Bailey,1963-10-25,M,barbara.bailey704@email.com,50000,5,Bachelors,Clerical,N
+705,Jackson,Roberts,1965-05-23,M,jackson.roberts705@email.com,60000,0,Partial High School,Professional,N
+706,Ashley,Williams,1964-04-01,F,ashley.williams706@email.com,25000,4,High School,Skilled Manual,N
+707,Richard,Thomas,1980-09-16,F,richard.thomas707@email.com,100000,2,Partial College,Professional,N
+708,Barbara,Taylor,1979-07-20,M,barbara.taylor708@email.com,25000,4,Partial High School,Manual,Y
+709,Jessica,Turner,1986-06-06,F,jessica.turner709@email.com,60000,1,High School,Manual,Y
+710,David,Jones,1982-12-08,F,david.jones710@email.com,100000,3,Bachelors,Skilled Manual,Y
+711,Emma,Rogers,1959-07-12,M,emma.rogers711@email.com,80000,0,Bachelors,Clerical,N
+712,Susan,Cook,1994-12-31,F,susan.cook712@email.com,60000,2,Graduate Degree,Manual,Y
+713,Evelyn,Murphy,1996-10-11,M,evelyn.murphy713@email.com,30000,5,Partial College,Professional,N
+714,Lisa,Rogers,1996-10-02,F,lisa.rogers714@email.com,50000,1,Graduate Degree,Manual,N
+715,Betty,Scott,1971-06-14,F,betty.scott715@email.com,70000,3,Partial College,Professional,Y
+716,Emma,Davis,1986-07-13,F,emma.davis716@email.com,90000,1,High School,Management,Y
+717,Olivia,Miller,1991-05-25,M,olivia.miller717@email.com,70000,4,Bachelors,Management,N
+718,Sandra,Parker,1992-02-03,M,sandra.parker718@email.com,120000,1,Partial High School,Skilled Manual,N
+719,Matthew,Jones,1985-07-26,M,matthew.jones719@email.com,120000,3,Partial College,Manual,N
+720,Ava,Reed,1976-03-09,M,ava.reed720@email.com,150000,5,Bachelors,Manual,N
+721,Linda,Parker,1996-07-12,F,linda.parker721@email.com,100000,0,Partial College,Skilled Manual,N
+722,Sandra,Jones,1964-10-03,F,sandra.jones722@email.com,70000,3,Bachelors,Professional,Y
+723,William,Parker,1955-01-07,M,william.parker723@email.com,150000,1,Partial College,Manual,N
+724,Matthew,Edwards,1995-02-12,M,matthew.edwards724@email.com,50000,5,High School,Management,N
+725,Dorothy,Cook,1985-11-19,M,dorothy.cook725@email.com,120000,0,Partial High School,Manual,N
+726,William,Young,1960-08-07,F,william.young726@email.com,100000,0,Bachelors,Manual,N
+727,Linda,Young,1957-10-18,M,linda.young727@email.com,80000,5,Partial High School,Clerical,N
+728,Jackson,Wright,1991-06-05,F,jackson.wright728@email.com,80000,4,Graduate Degree,Skilled Manual,N
+729,William,Thomas,1989-07-03,F,william.thomas729@email.com,80000,1,High School,Skilled Manual,Y
+730,James,Jones,1956-05-29,M,james.jones730@email.com,90000,5,Partial College,Skilled Manual,Y
+731,William,Stewart,1992-04-22,F,william.stewart731@email.com,120000,3,Partial High School,Skilled Manual,N
+732,Olivia,Baker,1995-05-18,F,olivia.baker732@email.com,70000,1,Graduate Degree,Clerical,Y
+733,Mia,Mitchell,1976-03-28,F,mia.mitchell733@email.com,80000,4,Partial High School,Management,Y
+734,John,Campbell,1998-05-10,F,john.campbell734@email.com,30000,4,Partial College,Professional,Y
+735,Harper,Morgan,1980-01-26,F,harper.morgan735@email.com,100000,0,Partial High School,Manual,Y
+736,Sarah,Carter,1962-01-02,F,sarah.carter736@email.com,120000,0,High School,Manual,Y
+737,Emma,Nelson,1997-02-04,F,emma.nelson737@email.com,80000,2,High School,Management,Y
+738,John,Reed,1982-04-12,F,john.reed738@email.com,25000,5,Partial College,Manual,Y
+739,Mia,Brown,1981-03-05,M,mia.brown739@email.com,60000,3,Bachelors,Skilled Manual,Y
+740,Abigail,Thompson,1977-08-12,M,abigail.thompson740@email.com,120000,2,High School,Management,Y
+741,Elijah,Davis,1970-08-31,M,elijah.davis741@email.com,150000,3,High School,Skilled Manual,N
+742,Abigail,Reed,1976-03-10,F,abigail.reed742@email.com,40000,4,Bachelors,Management,Y
+743,Barbara,Evans,1968-10-30,F,barbara.evans743@email.com,80000,3,Graduate Degree,Clerical,Y
+744,Jessica,Campbell,1985-12-16,M,jessica.campbell744@email.com,150000,2,Bachelors,Professional,Y
+745,Ashley,Scott,1997-09-22,F,ashley.scott745@email.com,90000,5,Partial High School,Skilled Manual,N
+746,Aiden,Cook,1989-12-29,F,aiden.cook746@email.com,60000,1,Partial High School,Clerical,Y
+747,Charles,Adams,1989-04-09,F,charles.adams747@email.com,100000,5,Bachelors,Professional,N
+748,Dorothy,Edwards,1979-06-16,F,dorothy.edwards748@email.com,60000,2,Bachelors,Management,N
+749,Ashley,Bailey,1976-09-10,M,ashley.bailey749@email.com,100000,2,Graduate Degree,Management,Y
+750,Aiden,Smith,1961-02-04,M,aiden.smith750@email.com,80000,0,Partial High School,Professional,N
+751,Daniel,White,1980-06-01,F,daniel.white751@email.com,50000,0,Bachelors,Manual,Y
+752,Patricia,Evans,1974-06-14,M,patricia.evans752@email.com,30000,0,Partial High School,Skilled Manual,N
+753,Charlotte,Murphy,1971-07-30,M,charlotte.murphy753@email.com,40000,2,High School,Clerical,Y
+754,Isabella,Nelson,1979-10-18,F,isabella.nelson754@email.com,150000,2,High School,Skilled Manual,Y
+755,Karen,Bailey,1960-08-06,F,karen.bailey755@email.com,80000,2,Bachelors,Management,N
+756,Susan,Adams,1961-03-24,F,susan.adams756@email.com,50000,4,Partial College,Skilled Manual,N
+757,Michael,Moore,1993-09-09,M,michael.moore757@email.com,120000,5,Bachelors,Clerical,N
+758,Michael,Williams,1961-07-17,M,michael.williams758@email.com,120000,5,High School,Clerical,Y
+759,Liam,Moore,1955-01-29,M,liam.moore759@email.com,150000,3,High School,Skilled Manual,N
+760,Sandra,Campbell,1955-05-02,F,sandra.campbell760@email.com,90000,3,Partial College,Professional,Y
+761,James,Wright,1998-04-01,M,james.wright761@email.com,120000,4,High School,Management,N
+762,Sandra,Brown,1963-02-18,F,sandra.brown762@email.com,100000,2,Bachelors,Clerical,N
+763,Logan,Thomas,1970-11-05,M,logan.thomas763@email.com,80000,5,Graduate Degree,Management,N
+764,Michael,Collins,1987-03-26,F,michael.collins764@email.com,30000,5,Partial College,Skilled Manual,Y
+765,John,Thomas,1957-04-11,M,john.thomas765@email.com,90000,3,Bachelors,Manual,N
+766,Liam,Turner,1995-04-23,M,liam.turner766@email.com,25000,2,Bachelors,Management,Y
+767,Sandra,Davis,1973-12-28,F,sandra.davis767@email.com,150000,4,Graduate Degree,Manual,Y
+768,Robert,Williams,1967-09-14,F,robert.williams768@email.com,150000,0,Partial College,Manual,Y
+769,Sarah,Reed,1966-09-17,M,sarah.reed769@email.com,40000,5,Bachelors,Management,Y
+770,Ashley,Edwards,1970-04-25,M,ashley.edwards770@email.com,30000,0,Partial College,Manual,Y
+771,Robert,Thomas,1993-03-28,F,robert.thomas771@email.com,150000,3,High School,Professional,Y
+772,Christopher,Jackson,1959-02-02,M,christopher.jackson772@email.com,70000,0,Bachelors,Management,Y
+773,Evelyn,Green,1970-01-28,F,evelyn.green773@email.com,100000,1,Partial College,Skilled Manual,Y
+774,William,Miller,1988-09-29,M,william.miller774@email.com,25000,3,Bachelors,Professional,Y
+775,Susan,Garcia,1980-06-15,F,susan.garcia775@email.com,90000,5,Graduate Degree,Skilled Manual,Y
+776,Isabella,Thompson,1995-05-30,F,isabella.thompson776@email.com,50000,1,Partial High School,Professional,Y
+777,Jackson,Mitchell,1962-11-24,F,jackson.mitchell777@email.com,70000,3,Bachelors,Manual,Y
+778,Richard,Davis,1963-08-02,F,richard.davis778@email.com,100000,4,Graduate Degree,Clerical,Y
+779,Karen,Brown,1972-05-18,M,karen.brown779@email.com,40000,5,Partial College,Clerical,Y
+780,David,Morris,1958-11-13,M,david.morris780@email.com,150000,2,High School,Skilled Manual,N
+781,Thomas,Hall,1995-08-27,M,thomas.hall781@email.com,30000,5,Bachelors,Manual,Y
+782,David,Johnson,1998-07-08,M,david.johnson782@email.com,30000,1,Partial College,Manual,N
+783,Anthony,Thomas,1984-03-21,M,anthony.thomas783@email.com,30000,2,Graduate Degree,Professional,Y
+784,Elijah,Green,1972-12-09,F,elijah.green784@email.com,50000,0,Partial College,Manual,N
+785,Patricia,Baker,1968-01-02,M,patricia.baker785@email.com,120000,3,Graduate Degree,Clerical,N
+786,William,Nelson,1972-06-02,F,william.nelson786@email.com,60000,1,High School,Skilled Manual,Y
+787,Amelia,Campbell,1960-05-08,F,amelia.campbell787@email.com,40000,0,Partial College,Clerical,N
+788,David,Murphy,1985-10-28,M,david.murphy788@email.com,60000,4,Graduate Degree,Manual,Y
+789,Mia,Phillips,1975-08-10,M,mia.phillips789@email.com,80000,4,Partial College,Skilled Manual,N
+790,Ashley,Thompson,1956-04-20,F,ashley.thompson790@email.com,50000,1,High School,Clerical,Y
+791,Lucas,Moore,1955-06-16,F,lucas.moore791@email.com,25000,0,Partial College,Manual,Y
+792,Dorothy,Roberts,1990-05-18,F,dorothy.roberts792@email.com,30000,3,Partial College,Skilled Manual,Y
+793,Ethan,Murphy,1956-02-12,F,ethan.murphy793@email.com,50000,1,High School,Management,Y
+794,Logan,Garcia,1956-06-05,F,logan.garcia794@email.com,150000,2,Graduate Degree,Clerical,Y
+795,Ashley,Nelson,1967-06-09,F,ashley.nelson795@email.com,40000,2,Partial College,Professional,Y
+796,Matthew,Reed,1984-11-12,M,matthew.reed796@email.com,60000,3,High School,Manual,Y
+797,Abigail,Rogers,1962-04-06,F,abigail.rogers797@email.com,25000,4,High School,Professional,Y
+798,Matthew,King,1996-09-30,M,matthew.king798@email.com,70000,2,Graduate Degree,Manual,Y
+799,Ethan,Cook,1973-05-14,M,ethan.cook799@email.com,70000,1,Partial High School,Professional,N
+800,Elijah,Murphy,1973-10-27,M,elijah.murphy800@email.com,70000,2,High School,Manual,N
+801,Karen,Brown,1960-09-07,F,karen.brown801@email.com,70000,3,Partial College,Manual,Y
+802,Emma,Cook,1981-03-21,F,emma.cook802@email.com,120000,2,Bachelors,Skilled Manual,N
+803,Jennifer,Garcia,1990-01-18,M,jennifer.garcia803@email.com,60000,0,Bachelors,Skilled Manual,N
+804,Linda,Reed,1968-04-10,F,linda.reed804@email.com,40000,1,Partial High School,Professional,N
+805,Anthony,Rogers,1966-11-05,F,anthony.rogers805@email.com,70000,3,Partial College,Professional,N
+806,Richard,Jones,1956-12-23,M,richard.jones806@email.com,100000,5,High School,Clerical,N
+807,Logan,Stewart,1984-04-10,F,logan.stewart807@email.com,120000,5,Partial High School,Manual,N
+808,Ashley,Lee,1966-11-02,F,ashley.lee808@email.com,40000,2,Graduate Degree,Clerical,N
+809,Charles,Bailey,1959-03-31,M,charles.bailey809@email.com,70000,2,Partial College,Skilled Manual,Y
+810,Jackson,Turner,1980-08-03,M,jackson.turner810@email.com,40000,5,Graduate Degree,Skilled Manual,Y
+811,Linda,Williams,1983-05-29,M,linda.williams811@email.com,90000,2,High School,Skilled Manual,Y
+812,Ethan,Cook,1958-02-10,F,ethan.cook812@email.com,70000,1,High School,Clerical,Y
+813,Ava,Lee,1965-11-24,M,ava.lee813@email.com,80000,3,Graduate Degree,Clerical,N
+814,Barbara,Smith,1984-09-20,F,barbara.smith814@email.com,90000,2,Partial High School,Skilled Manual,N
+815,Nancy,Reed,1965-01-28,F,nancy.reed815@email.com,25000,1,Partial High School,Professional,N
+816,Maria,Scott,1974-10-08,F,maria.scott816@email.com,70000,0,High School,Professional,Y
+817,Lucas,Roberts,1974-12-06,F,lucas.roberts817@email.com,50000,0,Bachelors,Manual,N
+818,Aiden,Morris,1962-11-03,F,aiden.morris818@email.com,50000,3,High School,Manual,Y
+819,Charlotte,King,1990-09-01,M,charlotte.king819@email.com,80000,2,Partial College,Management,Y
+820,Charles,Allen,1986-07-10,F,charles.allen820@email.com,90000,4,Bachelors,Skilled Manual,N
+821,Elijah,Green,1994-09-12,F,elijah.green821@email.com,40000,5,Partial College,Clerical,Y
+822,Lucas,Evans,1962-09-21,M,lucas.evans822@email.com,50000,2,Partial College,Manual,N
+823,Robert,Parker,1988-09-17,M,robert.parker823@email.com,25000,3,High School,Clerical,Y
+824,Ethan,Nelson,1967-04-14,M,ethan.nelson824@email.com,40000,3,High School,Manual,N
+825,John,Lee,1982-04-07,F,john.lee825@email.com,100000,5,Partial College,Skilled Manual,Y
+826,Abigail,Smith,1968-10-26,F,abigail.smith826@email.com,60000,5,Partial College,Professional,N
+827,Anthony,Anderson,1999-02-17,M,anthony.anderson827@email.com,25000,0,High School,Clerical,Y
+828,Sophia,Bell,1987-06-16,F,sophia.bell828@email.com,120000,3,High School,Clerical,Y
+829,Betty,Perez,1956-07-28,F,betty.perez829@email.com,40000,4,Bachelors,Skilled Manual,N
+830,Ashley,Reed,1967-02-26,F,ashley.reed830@email.com,40000,0,High School,Management,N
+831,Isabella,Allen,1959-05-16,F,isabella.allen831@email.com,60000,4,Bachelors,Manual,Y
+832,Oliver,Collins,1971-06-10,M,oliver.collins832@email.com,120000,1,Partial High School,Management,N
+833,Aiden,Lee,1979-05-10,F,aiden.lee833@email.com,30000,4,Partial High School,Management,Y
+834,James,Wilson,1980-03-31,F,james.wilson834@email.com,90000,3,High School,Skilled Manual,Y
+835,Jessica,Moore,1974-11-02,M,jessica.moore835@email.com,100000,4,Partial High School,Manual,Y
+836,Anthony,Nelson,1961-11-08,M,anthony.nelson836@email.com,40000,0,Partial College,Management,N
+837,Amelia,King,1967-06-22,F,amelia.king837@email.com,120000,4,High School,Skilled Manual,N
+838,Maria,Bell,1965-08-22,M,maria.bell838@email.com,40000,5,Graduate Degree,Skilled Manual,N
+839,William,Jackson,1966-09-06,M,william.jackson839@email.com,80000,5,Bachelors,Professional,Y
+840,Oliver,Carter,1993-09-09,M,oliver.carter840@email.com,50000,0,Bachelors,Manual,Y
+841,Emma,Davis,1977-09-12,M,emma.davis841@email.com,30000,2,Bachelors,Professional,Y
+842,Sophia,Jackson,1972-12-11,M,sophia.jackson842@email.com,150000,2,Bachelors,Professional,Y
+843,Elijah,Thompson,1986-03-16,F,elijah.thompson843@email.com,40000,4,Partial High School,Skilled Manual,Y
+844,Michael,Parker,1956-04-03,M,michael.parker844@email.com,50000,2,Graduate Degree,Manual,Y
+845,Harper,Miller,1974-03-14,F,harper.miller845@email.com,70000,5,Partial High School,Skilled Manual,N
+846,Aiden,Miller,1971-03-24,F,aiden.miller846@email.com,80000,3,Graduate Degree,Manual,Y
+847,Anthony,Davis,1983-03-13,M,anthony.davis847@email.com,90000,0,Partial High School,Skilled Manual,N
+848,Evelyn,King,1980-11-11,M,evelyn.king848@email.com,30000,2,Partial College,Professional,N
+849,Charles,Nelson,1982-12-28,F,charles.nelson849@email.com,50000,4,Partial College,Management,N
+850,Richard,Jones,1997-09-03,F,richard.jones850@email.com,40000,0,Partial College,Professional,N
+851,Mark,Roberts,1962-08-17,M,mark.roberts851@email.com,40000,3,Partial College,Manual,Y
+852,Elijah,Taylor,1960-10-21,F,elijah.taylor852@email.com,50000,2,Graduate Degree,Manual,N
+853,Linda,White,1993-02-06,F,linda.white853@email.com,60000,5,Partial High School,Manual,N
+854,Evelyn,Stewart,1990-11-27,F,evelyn.stewart854@email.com,90000,5,Partial High School,Clerical,N
+855,Olivia,Thompson,1968-03-22,F,olivia.thompson855@email.com,30000,0,High School,Clerical,N
+856,Joseph,Collins,1967-01-28,M,joseph.collins856@email.com,30000,5,Bachelors,Professional,N
+857,Aiden,Johnson,1971-01-25,F,aiden.johnson857@email.com,120000,5,High School,Skilled Manual,N
+858,Mason,Edwards,1963-08-23,M,mason.edwards858@email.com,150000,4,Partial College,Clerical,Y
+859,Charles,Morris,1999-09-02,F,charles.morris859@email.com,100000,2,Partial High School,Management,Y
+860,Evelyn,Williams,1993-08-12,M,evelyn.williams860@email.com,80000,3,High School,Clerical,N
+861,Ashley,Williams,1957-12-12,M,ashley.williams861@email.com,100000,5,High School,Skilled Manual,N
+862,Dorothy,Wilson,1983-01-12,F,dorothy.wilson862@email.com,90000,0,Partial High School,Clerical,N
+863,Emma,Phillips,1969-01-08,M,emma.phillips863@email.com,80000,2,Partial College,Manual,N
+864,Mason,Rogers,1986-08-25,F,mason.rogers864@email.com,70000,0,Bachelors,Manual,Y
+865,William,King,1986-04-19,M,william.king865@email.com,150000,2,Partial College,Professional,N
+866,Daniel,Allen,1991-12-16,F,daniel.allen866@email.com,25000,5,Graduate Degree,Skilled Manual,Y
+867,Logan,Lee,1962-08-15,M,logan.lee867@email.com,60000,0,High School,Skilled Manual,Y
+868,Ava,Walker,1958-05-09,F,ava.walker868@email.com,150000,3,Partial High School,Manual,N
+869,Karen,Johnson,1997-02-20,M,karen.johnson869@email.com,70000,3,Partial High School,Clerical,N
+870,Mia,Miller,1998-10-24,M,mia.miller870@email.com,150000,1,High School,Clerical,N
+871,David,Edwards,1981-11-14,F,david.edwards871@email.com,80000,1,Partial College,Professional,Y
+872,Charles,Martin,1959-04-07,F,charles.martin872@email.com,120000,3,Graduate Degree,Manual,Y
+873,Jackson,Parker,1963-07-02,F,jackson.parker873@email.com,60000,0,Partial High School,Manual,N
+874,Dorothy,Jackson,1986-02-27,M,dorothy.jackson874@email.com,150000,2,Partial High School,Management,N
+875,Charlotte,Turner,1983-02-10,M,charlotte.turner875@email.com,80000,3,High School,Manual,N
+876,Charlotte,Murphy,1971-03-15,M,charlotte.murphy876@email.com,150000,5,Partial High School,Skilled Manual,N
+877,Jessica,Morris,1996-12-03,F,jessica.morris877@email.com,150000,4,Partial High School,Clerical,Y
+878,Noah,Thomas,1987-09-06,F,noah.thomas878@email.com,40000,1,Graduate Degree,Management,N
+879,Anthony,Walker,1960-10-12,M,anthony.walker879@email.com,80000,2,High School,Skilled Manual,N
+880,Aiden,Evans,1976-03-08,F,aiden.evans880@email.com,50000,0,Graduate Degree,Skilled Manual,Y
+881,Sarah,Lee,1996-08-22,F,sarah.lee881@email.com,100000,3,Partial College,Professional,Y
+882,David,Thompson,1967-03-29,M,david.thompson882@email.com,60000,2,Partial High School,Skilled Manual,Y
+883,Harper,Mitchell,1956-10-14,M,harper.mitchell883@email.com,30000,2,Partial High School,Management,Y
+884,Anthony,King,1963-02-07,F,anthony.king884@email.com,40000,1,Bachelors,Manual,Y
+885,Noah,Morris,1977-08-04,F,noah.morris885@email.com,30000,1,Partial High School,Professional,N
+886,Nancy,Parker,1989-12-25,M,nancy.parker886@email.com,80000,1,Graduate Degree,Professional,Y
+887,Jessica,Thompson,1994-06-05,F,jessica.thompson887@email.com,60000,4,Bachelors,Clerical,N
+888,Amelia,Davis,1983-05-24,F,amelia.davis888@email.com,90000,5,Graduate Degree,Management,Y
+889,Betty,Carter,1987-12-29,F,betty.carter889@email.com,25000,5,Partial High School,Professional,Y
+890,Amelia,Morris,1976-07-02,F,amelia.morris890@email.com,100000,3,High School,Management,Y
+891,Ava,Harris,1994-09-09,F,ava.harris891@email.com,25000,3,High School,Management,Y
+892,Evelyn,Harris,1981-09-06,M,evelyn.harris892@email.com,40000,3,High School,Clerical,Y
+893,Karen,Garcia,1999-02-10,F,karen.garcia893@email.com,80000,2,Partial College,Professional,Y
+894,Amelia,Martin,1960-12-14,F,amelia.martin894@email.com,80000,4,Partial High School,Management,N
+895,Amelia,Johnson,1959-09-04,M,amelia.johnson895@email.com,150000,3,Graduate Degree,Professional,N
+896,Richard,Collins,1982-05-31,F,richard.collins896@email.com,120000,0,Bachelors,Skilled Manual,Y
+897,Noah,Cook,1966-09-02,F,noah.cook897@email.com,70000,3,Partial College,Skilled Manual,N
+898,Susan,Rogers,1984-05-22,F,susan.rogers898@email.com,50000,0,Partial College,Management,Y
+899,Sandra,Wright,1975-02-20,M,sandra.wright899@email.com,25000,4,Partial High School,Skilled Manual,Y
+900,Ashley,Thomas,1978-06-27,M,ashley.thomas900@email.com,25000,3,Partial High School,Clerical,N
+901,Barbara,Garcia,1988-01-04,M,barbara.garcia901@email.com,120000,0,Bachelors,Manual,N
+902,Oliver,Nelson,1999-05-02,M,oliver.nelson902@email.com,50000,5,Graduate Degree,Skilled Manual,N
+903,Charles,Bell,1999-05-02,F,charles.bell903@email.com,40000,3,Graduate Degree,Manual,Y
+904,Charles,Morgan,1971-12-28,F,charles.morgan904@email.com,40000,3,Graduate Degree,Professional,N
+905,Thomas,Harris,1995-06-17,M,thomas.harris905@email.com,70000,4,Partial College,Professional,Y
+906,Emma,Wilson,1984-01-01,F,emma.wilson906@email.com,150000,1,Partial College,Clerical,N
+907,Robert,Miller,1960-04-09,M,robert.miller907@email.com,70000,1,Partial College,Management,Y
+908,James,Martin,1989-03-05,F,james.martin908@email.com,80000,5,High School,Skilled Manual,Y
+909,Lucas,Anderson,1978-05-09,M,lucas.anderson909@email.com,100000,3,High School,Clerical,Y
+910,Jennifer,Walker,1993-11-03,M,jennifer.walker910@email.com,60000,0,High School,Professional,Y
+911,Liam,Thompson,1987-05-08,F,liam.thompson911@email.com,60000,2,Partial High School,Management,N
+912,Dorothy,Taylor,1983-04-23,F,dorothy.taylor912@email.com,40000,4,Partial College,Professional,Y
+913,Barbara,Brown,1975-08-16,M,barbara.brown913@email.com,25000,3,High School,Skilled Manual,N
+914,Dorothy,Davis,1999-05-27,M,dorothy.davis914@email.com,90000,2,Partial High School,Clerical,N
+915,Liam,Davis,1968-04-13,M,liam.davis915@email.com,70000,0,Graduate Degree,Management,Y
+916,David,Bell,1979-06-22,M,david.bell916@email.com,120000,0,Partial High School,Manual,Y
+917,Anthony,Jones,1977-01-31,F,anthony.jones917@email.com,150000,0,High School,Professional,N
+918,Aiden,Rogers,1965-12-11,F,aiden.rogers918@email.com,70000,4,Bachelors,Management,Y
+919,Maria,Garcia,1996-04-15,F,maria.garcia919@email.com,90000,5,High School,Manual,Y
+920,Nancy,Williams,1995-08-26,F,nancy.williams920@email.com,120000,1,Graduate Degree,Professional,N
+921,Christopher,Brown,1961-05-06,F,christopher.brown921@email.com,30000,3,High School,Skilled Manual,Y
+922,Oliver,Scott,1963-01-01,M,oliver.scott922@email.com,50000,1,Partial College,Clerical,N
+923,Logan,Murphy,1968-10-29,M,logan.murphy923@email.com,60000,3,Partial College,Management,Y
+924,Daniel,Morris,1963-08-16,F,daniel.morris924@email.com,100000,1,Partial College,Clerical,N
+925,Emma,Thompson,1992-12-15,M,emma.thompson925@email.com,80000,2,Partial High School,Skilled Manual,N
+926,Isabella,Baker,1963-05-04,M,isabella.baker926@email.com,100000,2,Partial College,Skilled Manual,Y
+927,Liam,Roberts,1962-07-14,F,liam.roberts927@email.com,90000,3,Bachelors,Clerical,N
+928,Barbara,Wilson,1981-12-13,M,barbara.wilson928@email.com,100000,3,High School,Manual,Y
+929,Ethan,Jones,1959-01-17,M,ethan.jones929@email.com,100000,3,Partial College,Professional,N
+930,Charlotte,Morgan,1977-09-24,F,charlotte.morgan930@email.com,60000,4,Bachelors,Manual,Y
+931,Linda,Bell,1996-07-11,M,linda.bell931@email.com,40000,3,Bachelors,Professional,N
+932,Jackson,Lee,1983-03-02,F,jackson.lee932@email.com,150000,3,Partial High School,Management,N
+933,Susan,Jackson,1971-08-09,M,susan.jackson933@email.com,120000,2,Bachelors,Clerical,Y
+934,James,Scott,1965-06-20,M,james.scott934@email.com,40000,5,Partial College,Clerical,N
+935,Charlotte,Bell,1998-08-31,F,charlotte.bell935@email.com,120000,4,High School,Clerical,N
+936,Jennifer,Wilson,1967-02-14,M,jennifer.wilson936@email.com,50000,0,Bachelors,Skilled Manual,Y
+937,Jessica,Carter,1968-01-09,M,jessica.carter937@email.com,80000,5,Partial High School,Skilled Manual,Y
+938,Lisa,Bailey,1996-07-29,M,lisa.bailey938@email.com,90000,3,Bachelors,Professional,Y
+939,Barbara,Bell,1994-12-12,F,barbara.bell939@email.com,90000,0,Partial College,Manual,Y
+940,Richard,Young,1990-02-22,M,richard.young940@email.com,70000,0,Bachelors,Clerical,N
+941,Liam,Bell,1981-02-01,M,liam.bell941@email.com,90000,3,Partial College,Manual,N
+942,Joseph,Cook,1960-06-12,M,joseph.cook942@email.com,80000,4,High School,Manual,Y
+943,Karen,Stewart,1992-06-03,F,karen.stewart943@email.com,30000,3,Partial High School,Management,N
+944,Amelia,Baker,1956-11-12,M,amelia.baker944@email.com,60000,5,Graduate Degree,Clerical,N
+945,Mark,White,1974-09-17,F,mark.white945@email.com,120000,5,Partial College,Skilled Manual,N
+946,Harper,Cook,1990-01-08,F,harper.cook946@email.com,150000,5,High School,Clerical,Y
+947,Mason,Jackson,1980-05-04,M,mason.jackson947@email.com,150000,3,Graduate Degree,Skilled Manual,Y
+948,David,Evans,1999-02-26,M,david.evans948@email.com,80000,3,High School,Skilled Manual,Y
+949,Ethan,Brown,1956-08-17,F,ethan.brown949@email.com,60000,2,Graduate Degree,Skilled Manual,Y
+950,Robert,Hall,1993-08-19,M,robert.hall950@email.com,120000,1,Bachelors,Manual,Y
+951,Liam,Martin,1985-07-13,F,liam.martin951@email.com,25000,4,High School,Skilled Manual,Y
+952,Jackson,Brown,1994-04-12,F,jackson.brown952@email.com,30000,0,Partial High School,Manual,Y
+953,Ethan,Williams,1964-06-16,M,ethan.williams953@email.com,150000,0,Graduate Degree,Management,Y
+954,Harper,Young,1994-08-11,F,harper.young954@email.com,30000,1,High School,Management,Y
+955,Linda,Thomas,1994-05-24,F,linda.thomas955@email.com,25000,1,Partial College,Management,N
+956,Olivia,Taylor,1962-08-24,F,olivia.taylor956@email.com,70000,5,Partial College,Management,Y
+957,Barbara,Murphy,1992-10-31,M,barbara.murphy957@email.com,40000,3,Partial College,Clerical,N
+958,Noah,Rogers,1987-06-16,M,noah.rogers958@email.com,90000,1,Bachelors,Manual,Y
+959,Jennifer,Hall,1983-03-30,F,jennifer.hall959@email.com,40000,3,Bachelors,Clerical,Y
+960,Charlotte,Stewart,1968-07-17,M,charlotte.stewart960@email.com,150000,5,Partial High School,Management,N
+961,Sandra,Rogers,1982-04-21,F,sandra.rogers961@email.com,70000,0,High School,Manual,Y
+962,Amelia,Scott,1995-01-11,M,amelia.scott962@email.com,100000,4,Partial High School,Clerical,N
+963,Abigail,Stewart,1991-04-16,M,abigail.stewart963@email.com,60000,0,Bachelors,Manual,N
+964,Matthew,Morgan,1966-04-21,F,matthew.morgan964@email.com,50000,0,Partial High School,Manual,N
+965,Noah,Hall,1969-05-10,M,noah.hall965@email.com,25000,4,Partial High School,Management,Y
+966,Oliver,Lee,1992-12-04,M,oliver.lee966@email.com,25000,2,High School,Manual,N
+967,Linda,Brown,1966-03-11,F,linda.brown967@email.com,60000,4,Bachelors,Clerical,N
+968,Sarah,Bell,1975-12-24,F,sarah.bell968@email.com,60000,2,Partial High School,Skilled Manual,N
+969,Noah,Bell,1977-03-20,M,noah.bell969@email.com,70000,4,Partial High School,Skilled Manual,N
+970,Ashley,Miller,1968-02-24,F,ashley.miller970@email.com,80000,0,Bachelors,Professional,N
+971,William,Carter,1974-04-09,F,william.carter971@email.com,30000,2,Partial High School,Clerical,N
+972,Thomas,Parker,1999-10-02,F,thomas.parker972@email.com,90000,5,Partial College,Clerical,Y
+973,Barbara,Perez,1966-05-28,F,barbara.perez973@email.com,90000,1,Partial High School,Manual,Y
+974,Amelia,Jackson,1995-11-10,F,amelia.jackson974@email.com,25000,5,Graduate Degree,Manual,N
+975,Linda,Evans,1991-08-29,M,linda.evans975@email.com,30000,2,Partial High School,Management,Y
+976,Noah,Moore,1965-07-25,F,noah.moore976@email.com,60000,2,High School,Management,N
+977,Maria,Moore,1967-10-02,F,maria.moore977@email.com,25000,2,High School,Skilled Manual,Y
+978,Elijah,Mitchell,1955-03-10,M,elijah.mitchell978@email.com,100000,2,Bachelors,Professional,N
+979,Emma,Campbell,1982-10-14,F,emma.campbell979@email.com,70000,3,Partial College,Manual,Y
+980,Evelyn,Wilson,1996-05-08,F,evelyn.wilson980@email.com,150000,3,Graduate Degree,Management,Y
+981,Mason,Morris,1991-10-01,F,mason.morris981@email.com,50000,3,High School,Manual,Y
+982,Charlotte,Adams,1979-11-20,M,charlotte.adams982@email.com,40000,5,Bachelors,Manual,N
+983,Ethan,Stewart,1966-02-08,M,ethan.stewart983@email.com,50000,4,Partial High School,Manual,Y
+984,Mia,Roberts,1971-12-29,F,mia.roberts984@email.com,100000,0,Bachelors,Manual,Y
+985,Maria,Thompson,1973-06-18,M,maria.thompson985@email.com,120000,3,Bachelors,Manual,N
+986,Sandra,Parker,1959-01-14,F,sandra.parker986@email.com,25000,2,Partial College,Skilled Manual,N
+987,Maria,Roberts,1983-06-22,F,maria.roberts987@email.com,60000,0,Bachelors,Professional,Y
+988,Charles,Moore,1971-05-22,F,charles.moore988@email.com,30000,1,High School,Clerical,Y
+989,Patricia,Edwards,1984-03-08,M,patricia.edwards989@email.com,25000,5,Bachelors,Management,N
+990,Michael,Walker,1967-10-13,F,michael.walker990@email.com,70000,2,Partial College,Professional,Y
+991,Richard,Harris,1976-03-20,F,richard.harris991@email.com,100000,4,Partial College,Professional,N
+992,Patricia,Walker,1996-09-13,F,patricia.walker992@email.com,30000,3,Bachelors,Clerical,Y
+993,Maria,Thompson,1964-02-09,M,maria.thompson993@email.com,100000,5,Graduate Degree,Management,N
+994,Mark,Garcia,1999-11-24,M,mark.garcia994@email.com,40000,2,Partial High School,Skilled Manual,Y
+995,Ava,Baker,1995-07-12,M,ava.baker995@email.com,25000,3,Partial High School,Management,Y
+996,James,Brown,1998-04-05,F,james.brown996@email.com,120000,2,Partial College,Management,Y
+997,Lucas,Perez,1980-03-28,M,lucas.perez997@email.com,40000,5,Partial High School,Manual,Y
+998,Lisa,Garcia,1990-06-19,M,lisa.garcia998@email.com,40000,5,Partial High School,Management,N
+999,Jessica,Edwards,1983-07-23,F,jessica.edwards999@email.com,150000,2,Partial College,Management,Y
+1000,Charlotte,Walker,1985-08-25,M,charlotte.walker1000@email.com,90000,4,High School,Professional,Y
